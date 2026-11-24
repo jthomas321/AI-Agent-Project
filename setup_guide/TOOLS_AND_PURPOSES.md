@@ -37,36 +37,7 @@ This document explains the tools and libraries used in the Sweetery AI Dessert C
 ## Built-in Python modules (no separate installation)
 
 The research agent uses standard-library modules such as `hashlib`, `re`, `ssl`, `datetime`, `urllib`, and `getpass`. Other project modules use standard libraries such as `json`, `copy`, and `logging`. These come with Python.
-
-## How the tools fit together
-
-```text
-User enters preferences in Streamlit
-                |
-                v
-        Python pipeline
-                |
-                v
-   SearXNG searches the web
-                |
-                v
-  HTML retrieval + BeautifulSoup
-                |
-       Dynamic page? ----> Playwright + Chromium
-                |
-                v
-  Extract menu text and products
-                |
-  Image-only menu? ----> Tesseract OCR fallback
-                |
-                v
-  Screening -> Checking -> Ranking
-        (Ollama where configured)
-                |
-                v
-     Top 3 results in Streamlit
-```
-
+# Note:
  Google Places and Yelp integrations can enrich business information, ratings, and hours when credentials and permitted API access are available. Python validation and the checking agent should still distinguish confirmed facts from missing or uncertain data.
 
 
