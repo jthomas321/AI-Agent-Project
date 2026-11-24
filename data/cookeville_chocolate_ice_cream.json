@@ -1,0 +1,226 @@
+[
+  {
+    "dessert_id": "rl_001",
+    "name": "Chocolate Ice Cream",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+    "evidence": [
+      {
+        "claim": "Chocolate Ice Cream is a listed favorite at Cream City",
+        "source_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+        "source_text": "Customers` Favorites ... Mint Chocolate Chip ... Chocolate Ice Cream",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_002",
+    "name": "Chocolate fudge",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://wanderlog.com/place/details/3018818/cream-city-ice-cream--coffee-house",
+    "evidence": [
+      {
+        "claim": "Chocolate fudge is a flavor at Cream City",
+        "source_url": "https://wanderlog.com/place/details/3018818/cream-city-ice-cream--coffee-house",
+        "source_text": "flavors such as blueberry, chocolate fudge, caramel truffle, praline and cream",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_003",
+    "name": "Mint Chocolate Chip",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate",
+      "mint"
+    ],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+    "evidence": [
+      {
+        "claim": "Mint Chocolate Chip is a listed favorite at Cream City",
+        "source_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+        "source_text": "Customers` Favorites ... Mint Chocolate Chip ... Chocolate Ice Cream",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_004",
+    "name": "Merlot Chocolate Chip",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate",
+      "merlot"
+    ],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+    "evidence": [
+      {
+        "claim": "Merlot Chocolate Chip is a listed favorite at Cream City",
+        "source_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+        "source_text": "Customers` Favorites Merlot Chocolate Chip and Coffee Scoops",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_005",
+    "name": "Chocolate raspberry truffle",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate",
+      "raspberry"
+    ],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://wanderlog.com/place/details/3018818/cream-city-ice-cream--coffee-house",
+    "evidence": [
+      {
+        "claim": "Reviewers mention a chocolate raspberry truffle at Cream City",
+        "source_url": "https://wanderlog.com/place/details/3018818/cream-city-ice-cream--coffee-house",
+        "source_text": "unique flavors like chocolate raspberry truffle",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_006",
+    "name": "Chocolate Ice Cream",
+    "business": "Lazy Cow Creamery",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "699 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+    "evidence": [
+      {
+        "claim": "Chocolate Ice Cream is listed at Lazy Cow Creamery",
+        "source_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+        "source_text": "Lazy Cow Creamery Ice Cream Shop 699 S Willow Ave, Cookeville Chocolate Ice Cream",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_007",
+    "name": "Chocolate Chip ice cream",
+    "business": "Lazy Cow Creamery",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "699 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+    "evidence": [
+      {
+        "claim": "Chocolate Chip is listed at Lazy Cow Creamery",
+        "source_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+        "source_text": "Lazy Cow Creamery Ice Cream Shop 699 S Willow Ave, Cookeville Chocolate Chip Ice Cream Cone",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_008",
+    "name": "Chocolate mousse",
+    "business": "Lazy Cow Creamery",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "699 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.tnvacation.com/articles/must-visit-ice-cream-shops-tennessee",
+    "evidence": [
+      {
+        "claim": "Lazy Cow Creamery makes a keto chocolate mousse ice cream",
+        "source_url": "https://www.tnvacation.com/articles/must-visit-ice-cream-shops-tennessee",
+        "source_text": "Keto and no sugar added ice cream is made in-house as well with must-have flavors such as cheesecake, chocolate mousse, mint chocolate",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_009",
+    "name": "Mint chocolate",
+    "business": "Lazy Cow Creamery",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate",
+      "mint"
+    ],
+    "address": "699 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.tnvacation.com/articles/must-visit-ice-cream-shops-tennessee",
+    "evidence": [
+      {
+        "claim": "Lazy Cow Creamery makes a keto mint chocolate ice cream",
+        "source_url": "https://www.tnvacation.com/articles/must-visit-ice-cream-shops-tennessee",
+        "source_text": "Keto and no sugar added ice cream is made in-house as well with must-have flavors such as cheesecake, chocolate mousse, mint chocolate",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "rl_010",
+    "name": "Chocolate Truffle",
+    "business": "La Michoacana Cookeville",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "140 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+    "evidence": [
+      {
+        "claim": "Chocolate Truffle is listed at La Michoacana Cookeville",
+        "source_url": "https://www.restaurantji.com/tn/Cookeville/ice-cream/",
+        "source_text": "La Michoacana Cookeville Ice Cream Shop 140 S Willow Ave, Cookeville Strawberry Banana Crepe with Nutella Mango Boba Tea Coffee Flavored Boba Tea Ice Cream Chocolate Truffle",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  }
+]

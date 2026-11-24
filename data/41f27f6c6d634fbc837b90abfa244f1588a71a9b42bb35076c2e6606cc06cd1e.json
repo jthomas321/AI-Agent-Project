@@ -1,0 +1,47 @@
+{
+  "timestamp": 1794872656.8249831,
+  "desserts": [
+    {
+      "dessert_id": "web_a13947afa937",
+      "name": "Strawberry Cheesecake",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+      "evidence": [
+        {
+          "claim": "Strawberry Cheesecake is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+          "source_text": "So fresh, SO good, great prices and service! Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+          "checked_at": "2026-11-16T23:43:54.564547+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5c2651bf5eb0",
+      "name": "Apple Crisp Mini Pie",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "pie",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+      "evidence": [
+        {
+          "claim": "Apple Crisp Mini Pie is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+          "source_text": "So fresh, SO good, great prices and service! Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+          "checked_at": "2026-11-16T23:43:54.564547+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    }
+  ]
+}

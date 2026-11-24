@@ -1,0 +1,271 @@
+{
+  "request": {
+    "dessert_type": null,
+    "flavor": "chocolate",
+    "max_price": 10.0,
+    "location": "Bruner Hall",
+    "max_distance_miles": null
+  },
+  "candidates": [
+    {
+      "dessert": {
+        "dessert_id": "c_a",
+        "name": "Dark chocolate cupcake",
+        "business": "Alpha Bakery",
+        "price": 4.0,
+        "dessert_type": "cupcake",
+        "flavors": [
+          "chocolate"
+        ],
+        "address": "Cookeville, TN (fixture)",
+        "distance_miles": 1.0,
+        "menu_url": null,
+        "evidence": [],
+        "verification_status": "verified",
+        "rating": null
+      },
+      "check": {
+        "dessert_id": "c_a",
+        "status": "verified",
+        "verified_fields": [
+          "name",
+          "price",
+          "flavors"
+        ],
+        "flagged_fields": [],
+        "notes": "Supported by source: name, price, flavors."
+      }
+    },
+    {
+      "dessert": {
+        "dessert_id": "c_b",
+        "name": "Chocolate fudge brownie",
+        "business": "Beta Creamery",
+        "price": 6.0,
+        "dessert_type": "brownie",
+        "flavors": [
+          "chocolate"
+        ],
+        "address": "Cookeville, TN (fixture)",
+        "distance_miles": 2.0,
+        "menu_url": null,
+        "evidence": [],
+        "verification_status": "verified",
+        "rating": null
+      },
+      "check": {
+        "dessert_id": "c_b",
+        "status": "verified",
+        "verified_fields": [
+          "name",
+          "price",
+          "flavors"
+        ],
+        "flagged_fields": [],
+        "notes": "Supported by source: name, price, flavors."
+      }
+    },
+    {
+      "dessert": {
+        "dessert_id": "c_c",
+        "name": "Vanilla bean cupcake",
+        "business": "Gamma Patisserie",
+        "price": 3.0,
+        "dessert_type": "cupcake",
+        "flavors": [
+          "vanilla"
+        ],
+        "address": "Cookeville, TN (fixture)",
+        "distance_miles": 0.5,
+        "menu_url": null,
+        "evidence": [],
+        "verification_status": "verified",
+        "rating": null
+      },
+      "check": {
+        "dessert_id": "c_c",
+        "status": "verified",
+        "verified_fields": [
+          "name",
+          "price",
+          "flavors"
+        ],
+        "flagged_fields": [],
+        "notes": "Supported by source: name, price, flavors."
+      }
+    },
+    {
+      "dessert": {
+        "dessert_id": "c_d",
+        "name": "Chocolate chip cookie",
+        "business": "Delta Cookie Co",
+        "price": null,
+        "dessert_type": "cookie",
+        "flavors": [
+          "chocolate"
+        ],
+        "address": "Cookeville, TN (fixture)",
+        "distance_miles": null,
+        "menu_url": null,
+        "evidence": [],
+        "verification_status": "unknown",
+        "rating": null
+      },
+      "check": {
+        "dessert_id": "c_d",
+        "status": "unknown",
+        "verified_fields": [
+          "name",
+          "flavors"
+        ],
+        "flagged_fields": [],
+        "notes": "Unknown: price."
+      }
+    },
+    {
+      "dessert": {
+        "dessert_id": "c_e",
+        "name": "Chocolate mousse cup",
+        "business": "Epsilon Bites",
+        "price": 12.0,
+        "dessert_type": "mousse",
+        "flavors": [
+          "chocolate"
+        ],
+        "address": "Cookeville, TN (fixture)",
+        "distance_miles": 1.5,
+        "menu_url": null,
+        "evidence": [],
+        "verification_status": "needs_research",
+        "rating": null
+      },
+      "check": {
+        "dessert_id": "c_e",
+        "status": "needs_research",
+        "verified_fields": [
+          "name",
+          "flavors"
+        ],
+        "flagged_fields": [
+          "price"
+        ],
+        "notes": "Not supported by source: price."
+      }
+    }
+  ],
+  "cases": [
+    {
+      "name": "model_reorders_inside_verified_tier",
+      "model_output": {
+        "order": [
+          "c_b",
+          "c_a",
+          "c_c",
+          "c_d"
+        ]
+      },
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "model_tries_to_promote_unknown_above_verified",
+      "model_output": {
+        "order": [
+          "c_d",
+          "c_a",
+          "c_b",
+          "c_c"
+        ]
+      },
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "model_promotes_flavor_mismatch_option_b",
+      "model_output": {
+        "order": [
+          "c_c",
+          "c_a",
+          "c_b",
+          "c_d"
+        ]
+      },
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "invented_and_duplicate_ids_are_cleaned",
+      "model_output": {
+        "order": [
+          "c_zzz",
+          "c_b",
+          "c_b",
+          "c_a"
+        ]
+      },
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "needs_research_id_from_model_is_ignored",
+      "model_output": {
+        "order": [
+          "c_e",
+          "c_a",
+          "c_b",
+          "c_c",
+          "c_d"
+        ]
+      },
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "malformed_text_falls_back_to_rules",
+      "model_output": "Sure! I think c_b is best, then c_a.",
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "wrong_key_falls_back_to_rules",
+      "model_output": {
+        "ranking": [
+          "c_b",
+          "c_a"
+        ]
+      },
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    },
+    {
+      "name": "unreachable_model_falls_back_to_rules",
+      "model_unreachable": true,
+      "expected_order": [
+        "c_a",
+        "c_b",
+        "c_c"
+      ]
+    }
+  ]
+}

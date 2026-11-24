@@ -1,0 +1,631 @@
+
+============================================================
+Sweetery run started: 2026-11-10T19:30:35-06:00
+============================================================
+[19:30:35] Starting pipeline: Checking your request
+[19:30:35] Request: {'dessert_type': None, 'flavor': None, 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:30:35] Stage: research - Searching for dessert shops and menus
+[19:33:42] Research attempt 1: 69 of 69 record(s) valid; 69 unique dessert IDs in pool
+[19:33:42] Stage: screening and checking
+[19:33:44] Review scoring: 3 of 3 business(es) have a review score
+[19:36:44] Screen web_63c0088488a4 Butter Twist (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_73005433a498 Cinammon Twist (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_06decd5d6cf4 Round Glaze (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_7cb99aa1dae5 Red Velvet Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_b91bd7a3687d Strawberry Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_58242548d17f Pumpkin Spice Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_1bb413b3bc00 Blueberry Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_aada92f640b5 Old Fashioned Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_81c991212e64 Donuts (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_75a122b4a8ed Donut Sticks (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_b90da89446f3 Cinnamon Rolls (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_f185f79a956f Plain Cake (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_947270f780be Cream Horn (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_489870fe627d Powdered Cake (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_f885e1947075 Lady Finger (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_1a1416b378b1 Cinammon Cake (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_4eb7baacdca0 Elephant Ear (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_a18af001c02d Vanilla Iced Cake (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_963a6107d936 Apple Fritter (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_33f085f33764 Muffins (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_ebffca86b140 Sprinkles (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_1629d6463f26 Maple Iced Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_17bd71778865 Vanilla Iced Cake (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_cab539a00a45 Coconut (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_0849c29148cc Devil's Food Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_0d8e27251860 White Cream Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_b255aea2bd6b White Cream Filled Long Johns (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_de2e7137e1d5 Custard Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_7db4e18b17a9 Lemon Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_bf9c85fb3c05 Hillary (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_149cf0c912a6 Glazed Raspberry Filled (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_11848bebb446 Biscuit & Gravy (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_99336a1d9573 Peanut Butter Iced Jelly Filled (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_a9fcaf44e7cd Double Biscuit & Gravy (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_c066b7bf26c7 Plain Biscuit (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_b1715e90582c Fruit Bars (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_ce114ac74cbc Orange Cream Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_f01f196e6c93 Cheese (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_14e979d1a432 Brownies (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_b55d0cd835a4 Ralph's Swag (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_d4aa3e295cca Stickers (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_bf013b92fb8a Orange Juice (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_89cf5c2be802 Small Milk (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_f089f5261f1c Sweet Tea (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_18f2bc566c01 Large Milk (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_7870297c752a Soda (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_3c2f85a2a94d Water (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_7bb2745881a1 Coffee (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_690cc4cb5ed5 Sodas (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_5e540c483065 Small Coffee (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_7d5bf436bd10 Large Coffee (Ralph's Donut Shop): contender - Matches the requested constraints.
+[19:36:44] Screen web_ce90b87b2fcb Nutrition Facts (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_a237df4c19cf Total Fat (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_da53b77641bf Total Carbohydrate (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_5f8d0070acb2 Saturated Fat (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_1d9307d22c23 Dietary Fiber (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_1d314db6296f Trans Fat (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_1c1383289b72 Total Sugars (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_d02e0aa04664 Cholesterol (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_a0e774c8c996 Added Sugars (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_6f421f116e0b Sodium (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_b124a06a44c1 Protein (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_828715f8df18 Vitamin D (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_1cc3020e60d6 Calcium (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_324eed088785 Iron (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_9d599c4cec11 Potassium (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:36:44] Screen web_822b576a78d8 Custom Cakes​ (The cakery): contender - Matches the requested constraints.
+[19:36:44] Screen web_5cfcc85d65eb Single tier starts at (The cakery): contender - Matches the requested constraints.
+[19:36:44] Screen web_80ab6dbad36f Multi tiered cakes start at (The cakery): contender - Matches the requested constraints.
+[19:36:44] Pipeline summary: research=69, screening={'contender': 36, 'needs_verification': 33}, checking_input=69, checking={'unknown': 69}
+[19:36:44] Screened 69; 69 passed to checking
+[19:36:44] Stage: hours lookup
+[19:36:44] Business hours: 1 of 3 shop(s) have Yelp hours
+[19:36:44] Stage: ranking
+[19:36:48] Ranking returned 3 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:42:46-06:00
+============================================================
+[19:42:46] Starting pipeline: Checking your request
+[19:42:46] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:42:46] Stage: research - Searching for dessert shops and menus
+[19:42:46] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:42:46] Stage: screening and checking
+[19:42:46] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:42:46] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:42:46] Screened 1; 1 passed to checking
+[19:42:46] Stage: hours lookup
+[19:42:46] Stage: ranking
+[19:42:46] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:42:46-06:00
+============================================================
+[19:42:46] Starting pipeline: Checking your request
+[19:42:46] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:42:46] Stage: research - Searching for dessert shops and menus
+[19:42:46] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:42:46] Stage: screening and checking
+[19:42:46] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:42:46] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:42:46] Screened 1; 1 passed to checking
+[19:42:46] Stage: hours lookup
+[19:42:46] Stage: ranking
+[19:42:46] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:42:46-06:00
+============================================================
+[19:42:46] Starting pipeline: Checking your request
+[19:42:46] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:42:46] Stage: research - Searching for dessert shops and menus
+[19:42:46] Research attempt 1: 0 of 0 record(s) valid; 0 unique dessert IDs in pool
+[19:42:46] Stage: screening and checking
+[19:42:46] Pipeline summary: research=0, screening={}, checking_input=0, checking={}
+[19:42:46] Screened 0; 0 passed to checking
+[19:42:46] Stage: hours lookup
+[19:42:46] Stage: ranking
+[19:42:46] Ranking returned 0 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:42:46-06:00
+============================================================
+[19:42:46] Starting pipeline: Checking your request
+
+============================================================
+Sweetery run started: 2026-11-10T19:42:46-06:00
+============================================================
+[19:42:46] Starting pipeline: Checking your request
+[19:42:46] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:42:46] Stage: research - Searching for dessert shops and menus
+[19:42:46] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:42:46] Stage: screening and checking
+[19:42:46] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:42:46] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:42:46] Screened 1; 1 passed to checking
+[19:42:46] Stage: hours lookup
+[19:42:46] Stage: ranking
+[19:42:46] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:53:58-06:00
+============================================================
+[19:53:58] Starting pipeline: Checking your request
+[19:53:58] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:53:58] Stage: research - Searching for dessert shops and menus
+[19:53:58] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:53:58] Stage: screening and checking
+[19:53:58] Review scoring duration: 0.00s
+[19:53:58] Screening duration: 0.00s
+[19:53:58] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:53:58] Checking duration: 0.00s
+[19:53:58] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[19:53:58] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:53:58] Screened 1; 1 passed to checking
+[19:53:58] Stage: hours lookup
+[19:53:58] Stage: ranking
+[19:53:58] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:53:58-06:00
+============================================================
+[19:53:58] Starting pipeline: Checking your request
+[19:53:58] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:53:58] Stage: research - Searching for dessert shops and menus
+[19:53:58] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:53:58] Stage: screening and checking
+[19:53:58] Review scoring duration: 0.00s
+[19:53:58] Screening duration: 0.00s
+[19:53:58] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:53:58] Checking duration: 0.00s
+[19:53:58] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[19:53:58] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:53:58] Screened 1; 1 passed to checking
+[19:53:58] Stage: hours lookup
+[19:53:58] Stage: ranking
+[19:53:58] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:53:58-06:00
+============================================================
+[19:53:58] Starting pipeline: Checking your request
+[19:53:58] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:53:58] Stage: research - Searching for dessert shops and menus
+[19:53:58] Research attempt 1: 0 of 0 record(s) valid; 0 unique dessert IDs in pool
+[19:53:58] Stage: screening and checking
+[19:53:58] Review scoring duration: 0.00s
+[19:53:58] Screening duration: 0.00s
+[19:53:58] Checking duration: 0.00s
+[19:53:58] Checking verified fields: {}
+[19:53:58] Pipeline summary: research=0, screening={}, checking_input=0, checking={}
+[19:53:58] Screened 0; 0 passed to checking
+[19:53:58] Stage: hours lookup
+[19:53:58] Stage: ranking
+[19:53:58] Ranking returned 0 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:53:58-06:00
+============================================================
+[19:53:58] Starting pipeline: Checking your request
+
+============================================================
+Sweetery run started: 2026-11-10T19:53:58-06:00
+============================================================
+[19:53:58] Starting pipeline: Checking your request
+[19:53:58] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:53:58] Stage: research - Searching for dessert shops and menus
+[19:53:58] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:53:58] Stage: screening and checking
+[19:53:58] Review scoring duration: 0.00s
+[19:53:58] Screening duration: 0.00s
+[19:53:58] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:53:58] Checking duration: 0.00s
+[19:53:58] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[19:53:58] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:53:58] Screened 1; 1 passed to checking
+[19:53:58] Stage: hours lookup
+[19:53:58] Stage: ranking
+[19:53:58] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:54:52-06:00
+============================================================
+[19:54:52] Starting pipeline: Checking your request
+[19:54:52] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:54:52] Stage: research - Searching for dessert shops and menus
+[19:54:52] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:54:52] Stage: screening and checking
+[19:54:52] Review scoring duration: 0.00s
+[19:54:52] Screening duration: 0.00s
+[19:54:52] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:54:52] Checking duration: 0.00s
+[19:54:52] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[19:54:52] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:54:52] Screened 1; 1 passed to checking
+[19:54:52] Stage: hours lookup
+[19:54:52] Stage: ranking
+[19:54:52] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:54:52-06:00
+============================================================
+[19:54:52] Starting pipeline: Checking your request
+[19:54:52] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:54:52] Stage: research - Searching for dessert shops and menus
+[19:54:52] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:54:52] Stage: screening and checking
+[19:54:52] Review scoring duration: 0.00s
+[19:54:52] Screening duration: 0.00s
+[19:54:52] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:54:52] Checking duration: 0.00s
+[19:54:52] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[19:54:52] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:54:52] Screened 1; 1 passed to checking
+[19:54:52] Stage: hours lookup
+[19:54:52] Stage: ranking
+[19:54:52] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:54:52-06:00
+============================================================
+[19:54:52] Starting pipeline: Checking your request
+[19:54:52] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:54:52] Stage: research - Searching for dessert shops and menus
+[19:54:52] Research attempt 1: 0 of 0 record(s) valid; 0 unique dessert IDs in pool
+[19:54:52] Stage: screening and checking
+[19:54:52] Review scoring duration: 0.00s
+[19:54:52] Screening duration: 0.00s
+[19:54:52] Checking duration: 0.00s
+[19:54:52] Checking verified fields: {}
+[19:54:52] Pipeline summary: research=0, screening={}, checking_input=0, checking={}
+[19:54:52] Screened 0; 0 passed to checking
+[19:54:52] Stage: hours lookup
+[19:54:52] Stage: ranking
+[19:54:52] Ranking returned 0 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:54:52-06:00
+============================================================
+[19:54:52] Starting pipeline: Checking your request
+
+============================================================
+Sweetery run started: 2026-11-10T19:54:52-06:00
+============================================================
+[19:54:52] Starting pipeline: Checking your request
+[19:54:52] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:54:52] Stage: research - Searching for dessert shops and menus
+[19:54:52] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[19:54:52] Stage: screening and checking
+[19:54:52] Review scoring duration: 0.00s
+[19:54:52] Screening duration: 0.00s
+[19:54:52] Screen one Chocolate cake (Sample Bakery): contender - match
+[19:54:52] Checking duration: 0.00s
+[19:54:52] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[19:54:52] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[19:54:52] Screened 1; 1 passed to checking
+[19:54:52] Stage: hours lookup
+[19:54:52] Stage: ranking
+[19:54:52] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:55:14-06:00
+============================================================
+[19:55:14] Starting pipeline: Checking your request
+[19:55:14] Request: {'dessert_type': None, 'flavor': None, 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:55:14] Stage: research - Searching for dessert shops and menus
+[19:57:56] Research attempt 1: 69 of 69 record(s) valid; 69 unique dessert IDs in pool
+[19:57:56] Stage: screening and checking
+[19:57:58] Review scoring: 3 of 3 business(es) scored; 0 reused, 3 requested
+[19:57:58] Review scoring duration: 2.41s
+[19:58:55] Screening duration: 56.78s
+[19:58:55] Screen web_63c0088488a4 Butter Twist (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_73005433a498 Cinammon Twist (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_06decd5d6cf4 Round Glaze (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_7cb99aa1dae5 Red Velvet Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_b91bd7a3687d Strawberry Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_58242548d17f Pumpkin Spice Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_1bb413b3bc00 Blueberry Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_aada92f640b5 Old Fashioned Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_81c991212e64 Donuts (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_75a122b4a8ed Donut Sticks (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_b90da89446f3 Cinnamon Rolls (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_f185f79a956f Plain Cake (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_947270f780be Cream Horn (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_489870fe627d Powdered Cake (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_f885e1947075 Lady Finger (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_1a1416b378b1 Cinammon Cake (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_4eb7baacdca0 Elephant Ear (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_a18af001c02d Vanilla Iced Cake (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_963a6107d936 Apple Fritter (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_33f085f33764 Muffins (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_ebffca86b140 Sprinkles (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_1629d6463f26 Maple Iced Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_17bd71778865 Vanilla Iced Cake (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_cab539a00a45 Coconut (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_0849c29148cc Devil's Food Cake (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_0d8e27251860 White Cream Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_b255aea2bd6b White Cream Filled Long Johns (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_de2e7137e1d5 Custard Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_7db4e18b17a9 Lemon Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_bf9c85fb3c05 Hillary (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_149cf0c912a6 Glazed Raspberry Filled (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_11848bebb446 Biscuit & Gravy (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_99336a1d9573 Peanut Butter Iced Jelly Filled (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_a9fcaf44e7cd Double Biscuit & Gravy (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_c066b7bf26c7 Plain Biscuit (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_b1715e90582c Fruit Bars (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_ce114ac74cbc Orange Cream Filled (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_f01f196e6c93 Cheese (Ralph's Donut Shop): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_14e979d1a432 Brownies (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_b55d0cd835a4 Ralph's Swag (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_d4aa3e295cca Stickers (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_bf013b92fb8a Orange Juice (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_89cf5c2be802 Small Milk (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_f089f5261f1c Sweet Tea (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_18f2bc566c01 Large Milk (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_7870297c752a Soda (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_3c2f85a2a94d Water (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_7bb2745881a1 Coffee (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_690cc4cb5ed5 Sodas (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_5e540c483065 Small Coffee (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_7d5bf436bd10 Large Coffee (Ralph's Donut Shop): contender - Matches the requested constraints (rules).
+[19:58:55] Screen web_ce90b87b2fcb Nutrition Facts (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_a237df4c19cf Total Fat (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_da53b77641bf Total Carbohydrate (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_5f8d0070acb2 Saturated Fat (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_1d9307d22c23 Dietary Fiber (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_1d314db6296f Trans Fat (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_1c1383289b72 Total Sugars (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_d02e0aa04664 Cholesterol (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_a0e774c8c996 Added Sugars (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_6f421f116e0b Sodium (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_b124a06a44c1 Protein (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_828715f8df18 Vitamin D (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_1cc3020e60d6 Calcium (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_324eed088785 Iron (Lazycowcreamery): needs_verification - Cannot confirm: price.
+[19:58:55] Screen web_9d599c4cec11 Potassium (Lazycowcreamery): reject - Nutrition label, not a dessert.
+[19:58:55] Screen web_822b576a78d8 Custom Cakes​ (The cakery): contender - Matches the requested constraints.
+[19:58:55] Screen web_5cfcc85d65eb Single tier starts at (The cakery): contender - Matches the requested constraints.
+[19:58:55] Screen web_80ab6dbad36f Multi tiered cakes start at (The cakery): contender - Matches the requested constraints.
+[19:58:55] Checking duration: 0.00s
+[19:58:55] Checking verified fields: {'name': 55, 'price': 36}
+[19:58:55] Pipeline summary: research=69, screening={'contender': 36, 'needs_verification': 19, 'reject': 14}, checking_input=55, checking={'unknown': 55}
+[19:58:55] Screened 69; 55 passed to checking
+[19:58:55] Stage: hours lookup
+[19:58:55] Business hours: 1 of 3 shop(s) have Yelp hours
+[19:58:55] Stage: ranking
+[19:59:00] Ranking returned 3 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T19:59:59-06:00
+============================================================
+[19:59:59] Starting pipeline: Checking your request
+[19:59:59] Request: {'dessert_type': 'cookie', 'flavor': None, 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[19:59:59] Stage: research - Searching for dessert shops and menus
+[20:02:11] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[20:02:11] Stage: screening and checking
+[20:02:13] Review scoring: 0 of 1 business(es) scored; 0 reused, 1 requested
+[20:02:13] Review scoring duration: 1.07s
+[20:02:15] Screening duration: 2.54s
+[20:02:15] Screen web_0d0a9461baaa Butterfinger Pumpkins Cookie Dough Mummies Reese’s (The French Cookie of Cookeville): needs_verification - Cannot confirm: price.
+[20:02:15] Checking duration: 0.00s
+[20:02:15] Checking verified fields: {'name': 1}
+[20:02:15] Pipeline summary: research=1, screening={'needs_verification': 1}, checking_input=1, checking={'unknown': 1}
+[20:02:15] Screened 1; 1 passed to checking
+[20:02:15] Stage: hours lookup
+[20:02:15] Business hours: 0 of 1 shop(s) have Yelp hours
+[20:02:15] Stage: ranking
+[20:05:17] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:13:01-06:00
+============================================================
+[20:13:01] Starting pipeline: Checking your request
+[20:13:01] Request: {'dessert_type': 'ice cream', 'flavor': None, 'max_price': 20.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:13:01] Stage: research - Searching for dessert shops and menus
+[20:15:37] Research attempt 1: 0 of 0 record(s) valid; 0 unique dessert IDs in pool
+[20:15:37] Stage: screening and checking
+[20:15:37] Review scoring duration: 0.00s
+[20:15:37] Screening duration: 0.00s
+[20:15:37] Checking duration: 0.00s
+[20:15:37] Checking verified fields: {}
+[20:15:37] Pipeline summary: research=0, screening={}, checking_input=0, checking={}
+[20:15:37] Screened 0; 0 passed to checking
+[20:15:37] Stage: hours lookup
+[20:15:37] Stage: ranking
+[20:15:37] Ranking returned 0 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:28:19-06:00
+============================================================
+[20:28:19] Starting pipeline: Checking your request
+[20:28:19] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:28:19] Stage: research - Searching for dessert shops and menus
+[20:28:19] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[20:28:19] Stage: screening and checking
+[20:28:19] Review scoring duration: 0.00s
+[20:28:19] Screening duration: 0.00s
+[20:28:19] Screen one Chocolate cake (Sample Bakery): contender - match
+[20:28:19] Checking duration: 0.00s
+[20:28:19] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[20:28:19] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[20:28:19] Screened 1; 1 passed to checking
+[20:28:19] Stage: hours lookup
+[20:28:19] Stage: ranking
+[20:28:19] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:28:19-06:00
+============================================================
+[20:28:19] Starting pipeline: Checking your request
+[20:28:19] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:28:19] Stage: research - Searching for dessert shops and menus
+[20:28:19] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[20:28:19] Stage: screening and checking
+[20:28:19] Review scoring duration: 0.00s
+[20:28:19] Screening duration: 0.00s
+[20:28:19] Screen one Chocolate cake (Sample Bakery): contender - match
+[20:28:19] Checking duration: 0.00s
+[20:28:19] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[20:28:19] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[20:28:19] Screened 1; 1 passed to checking
+[20:28:19] Stage: hours lookup
+[20:28:19] Stage: ranking
+[20:28:19] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:28:19-06:00
+============================================================
+[20:28:19] Starting pipeline: Checking your request
+[20:28:19] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:28:19] Stage: research - Searching for dessert shops and menus
+[20:28:19] Research attempt 1: 0 of 0 record(s) valid; 0 unique dessert IDs in pool
+[20:28:19] Stage: screening and checking
+[20:28:19] Review scoring duration: 0.00s
+[20:28:19] Screening duration: 0.00s
+[20:28:19] Checking duration: 0.00s
+[20:28:19] Checking verified fields: {}
+[20:28:19] Pipeline summary: research=0, screening={}, checking_input=0, checking={}
+[20:28:19] Screened 0; 0 passed to checking
+[20:28:19] Stage: hours lookup
+[20:28:19] Stage: ranking
+[20:28:19] Ranking returned 0 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:28:19-06:00
+============================================================
+[20:28:19] Starting pipeline: Checking your request
+
+============================================================
+Sweetery run started: 2026-11-10T20:28:19-06:00
+============================================================
+[20:28:19] Starting pipeline: Checking your request
+[20:28:19] Request: {'dessert_type': 'cake', 'flavor': 'chocolate', 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:28:19] Stage: research - Searching for dessert shops and menus
+[20:28:19] Research attempt 1: 1 of 1 record(s) valid; 1 unique dessert IDs in pool
+[20:28:19] Stage: screening and checking
+[20:28:19] Review scoring duration: 0.00s
+[20:28:19] Screening duration: 0.00s
+[20:28:19] Screen one Chocolate cake (Sample Bakery): contender - match
+[20:28:19] Checking duration: 0.00s
+[20:28:19] Checking verified fields: {'name': 1, 'price': 1, 'flavors': 1}
+[20:28:19] Pipeline summary: research=1, screening={'contender': 1}, checking_input=1, checking={'verified': 1}
+[20:28:19] Screened 1; 1 passed to checking
+[20:28:19] Stage: hours lookup
+[20:28:19] Stage: ranking
+[20:28:19] Ranking returned 1 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:28:33-06:00
+============================================================
+[20:28:33] Starting pipeline: Checking your request
+[20:28:33] Request: {'dessert_type': 'ice cream', 'flavor': None, 'max_price': 10.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:28:33] Stage: research - Searching for dessert shops and menus
+[20:31:04] Research attempt 1: 37 of 37 record(s) valid; 37 unique dessert IDs in pool
+[20:31:04] Stage: screening and checking
+[20:31:05] Review scoring: 0 of 1 business(es) scored; 0 reused, 1 requested
+[20:31:05] Review scoring duration: 1.08s
+[20:32:43] Screening duration: 98.25s
+[20:32:43] Screen web_08d973c45d07 Triple Berry Sorbet (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_1325192eef09 Maple Blondie (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_822fc8bcf670 Mint Cookie (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_945af4060bf0 Cookie Butter (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_3ff8d1dd2f61 Chocolate Raspberry Truffle (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_aa7b9d4785d3 Blueberry Cheesecake (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_62e160eab70e Orange Sherbet (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_bb1be581b758 Salted Caramel (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_b476becd441a Cake Batter (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_2d382b36dad4 Loaded Butterscotch (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_6faf41c997ec Nutter Butter (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_e02028cc5c3f Chocolate Overload (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_11466340913a Stellar Coffee (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_5c68073667b8 Pralines and Cream (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_620ee2eddfd2 Black Cherry (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_a2de24b80506 Honey Roasted Pistachio (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_e01546358a73 Cookie Dough (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_4be82553a52b Chocolate Peanut Butter Cup (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_422455f8fced Horchata (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_475ebb103705 Triple Chocolate Brownie (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_57ef3044d28c Strawberry (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_b64a691ac7a8 Banana Pudding (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_fa725e5b3b3b Butter Pecan (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_6f869fd5e1e6 Red Velvet (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_3161c469f445 Salty Honey (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_c3bdb9ba9ae2 Tennessee Fudge (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_bed5a7dc8a42 Mint Chocolate Chip (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_c9f0a19b47c6 Carmel Cone (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_c409723b4bda Toasted Coconut (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_c21d6494efb8 Mexican Chocolate (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_fceb22c065d2 Coffee (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_acb2cee48a7f Chocolate (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_43be497250a0 Superman (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_340740238a6b Rocky Road (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_8869cbfbc53d Vanilla (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_b2461b568112 Blackberry Cornbread (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Screen web_b90add1daef9 Cookies and Cream (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:32:43] Checking duration: 0.00s
+[20:32:43] Checking verified fields: {'name': 37}
+[20:32:43] Pipeline summary: research=37, screening={'needs_verification': 37}, checking_input=37, checking={'unknown': 37}
+[20:32:43] Screened 37; 37 passed to checking
+[20:32:43] Stage: hours lookup
+[20:32:43] Business hours: 0 of 1 shop(s) have Yelp hours
+[20:32:43] Stage: ranking
+[20:32:48] Ranking returned 3 result(s)
+
+============================================================
+Sweetery run started: 2026-11-10T20:36:44-06:00
+============================================================
+[20:36:44] Starting pipeline: Checking your request
+[20:36:44] Request: {'dessert_type': 'ice cream', 'flavor': 'chocolate', 'max_price': 20.0, 'location': 'Cookeville, TN', 'max_distance_miles': None}
+[20:36:44] Stage: research - Searching for dessert shops and menus
+[20:38:40] Research attempt 1: 37 of 37 record(s) valid; 37 unique dessert IDs in pool
+[20:38:40] Stage: screening and checking
+[20:38:40] Review scoring: 0 of 1 business(es) scored; 0 reused, 1 requested
+[20:38:40] Review scoring duration: 0.00s
+[20:40:17] Screening duration: 97.26s
+[20:40:17] Screen web_08d973c45d07 Triple Berry Sorbet (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_1325192eef09 Maple Blondie (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_822fc8bcf670 Mint Cookie (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_945af4060bf0 Cookie Butter (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_3ff8d1dd2f61 Chocolate Raspberry Truffle (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_aa7b9d4785d3 Blueberry Cheesecake (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_62e160eab70e Orange Sherbet (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_bb1be581b758 Salted Caramel (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_b476becd441a Cake Batter (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_2d382b36dad4 Loaded Butterscotch (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_6faf41c997ec Nutter Butter (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_e02028cc5c3f Chocolate Overload (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_11466340913a Stellar Coffee (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_5c68073667b8 Pralines and Cream (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_620ee2eddfd2 Black Cherry (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_a2de24b80506 Honey Roasted Pistachio (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_e01546358a73 Cookie Dough (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_4be82553a52b Chocolate Peanut Butter Cup (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_422455f8fced Horchata (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_475ebb103705 Triple Chocolate Brownie (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_57ef3044d28c Strawberry (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_b64a691ac7a8 Banana Pudding (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_fa725e5b3b3b Butter Pecan (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_6f869fd5e1e6 Red Velvet (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_3161c469f445 Salty Honey (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_c3bdb9ba9ae2 Tennessee Fudge (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_bed5a7dc8a42 Mint Chocolate Chip (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_c9f0a19b47c6 Carmel Cone (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_c409723b4bda Toasted Coconut (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_c21d6494efb8 Mexican Chocolate (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_fceb22c065d2 Coffee (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_acb2cee48a7f Chocolate (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_43be497250a0 Superman (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_340740238a6b Rocky Road (Icecream Flavors): needs_verification - Cannot confirm: price.
+[20:40:17] Screen web_8869cbfbc53d Vanilla (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_b2461b568112 Blackberry Cornbread (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Screen web_b90add1daef9 Cookies and Cream (Icecream Flavors): needs_verification - Cannot confirm: price, flavor.
+[20:40:17] Checking duration: 0.00s
+[20:40:17] Checking verified fields: {'name': 37, 'flavors': 13}
+[20:40:17] Pipeline summary: research=37, screening={'needs_verification': 37}, checking_input=37, checking={'unknown': 37}
+[20:40:17] Screened 37; 37 passed to checking
+[20:40:17] Stage: hours lookup
+[20:40:17] Business hours: 0 of 1 shop(s) have Yelp hours
+[20:40:17] Stage: ranking
+[20:40:23] Ranking returned 3 result(s)

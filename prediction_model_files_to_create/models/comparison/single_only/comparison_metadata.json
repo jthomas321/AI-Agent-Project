@@ -1,0 +1,27 @@
+{
+  "seed": 42,
+  "data_file": "C:\\Sweetery\\prediction_model\\data\\sweetery_training_data.csv",
+  "single_only": true,
+  "rows": {
+    "total": 6831,
+    "train": 4779,
+    "validation": 1034,
+    "test": 1018
+  },
+  "restaurant_counts": {
+    "train": 2506,
+    "validation": 537,
+    "test": 537
+  },
+  "tree_train_rows": 4779,
+  "svd_components": 60,
+  "notes": [
+    "All test rows are from restaurants absent from training and validation.",
+    "Tree models use a subsample for training by default; compare with this limitation in mind.",
+    "This script uses fixed example hyperparameters, not an exhaustive tuning search.",
+    "Use validation scores for model selection; test scores are for reporting, not iterative tuning.",
+    "Training source may have undergone IQR trimming before split, which can bias evaluation.",
+    "Predicted prices are estimates, not verified menu prices.",
+    "Cookeville local results are external evaluation, not training; repeated model selection on them can overfit."
+  ]
+}

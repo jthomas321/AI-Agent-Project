@@ -1,0 +1,2336 @@
+{
+  "timestamp": 1794872140.2504275,
+  "desserts": [
+    {
+      "dessert_id": "web_a13947afa937",
+      "name": "Strawberry Cheesecake",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+      "evidence": [
+        {
+          "claim": "Strawberry Cheesecake is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+          "source_text": "So fresh, SO good, great prices and service! Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5c2651bf5eb0",
+      "name": "Apple Crisp Mini Pie",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "pie",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+      "evidence": [
+        {
+          "claim": "Apple Crisp Mini Pie is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+          "source_text": "So fresh, SO good, great prices and service! Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_0b71ae92a6ab",
+      "name": "Cookie Dough",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Cookie Dough is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Cookie Dough",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9cef49fcd453",
+      "name": "Triple Berry Sorbet Triple Berry Sorbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Triple Berry Sorbet Triple Berry Sorbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Triple Berry Sorbet Triple Berry Sorbet | This tasty tangy treat is a blend of Strawberries, Raspberries, Blackberries, and Blueberries",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d2573456b179",
+      "name": "Orange Sherbet Orange Sherbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Orange Sherbet Orange Sherbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Orange Sherbet Orange Sherbet | Creamy, tropical taste with a delicious orange flavor",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_cad026b631e0",
+      "name": "Triple Berry Sorbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Triple Berry Sorbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Triple Berry Sorbet | This tasty tangy treat is a blend of Strawberries, Raspberries, Blackberries, and Blueberries",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_de4969457442",
+      "name": "Orange Sherbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Orange Sherbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Orange Sherbet | Creamy, tropical taste with a delicious orange flavor",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f26751a181b8",
+      "name": "Floats",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Floats is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Floats | Your choice of icecream in a 16oz cup filled with coke, rootbeer, orange, or cream soda. Topped with whipped cream",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_52b01642cd21",
+      "name": "Sundaes",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Sundaes is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Sundaes | One scoop of your choice of ice cream plus one topping, whipped cream, and peanuts",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ad99fc715b34",
+      "name": "Banana Split",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Banana Split is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Banana Split | Your choice of three scoops of ice cream, three toppings, whipped cream, peanuts, and a cherry",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ae53e16ff25c",
+      "name": "Milkshakes",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Milkshakes is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Milkshakes | An ice cream of your choice, blended with milk, and topped with whipped cream. Add a shot of esspresso or make it a malt for $0.25",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_7fbcff18515c",
+      "name": "Extras",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Extras is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Extras | Espresso Shot, Flavor Shot and Substitution of Chocolate Milk, Soy Milk, or Half-&-Half",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e0d7407b067f",
+      "name": "Special Blend",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Special Blend is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Special Blend | A piping hot cup of our house blend coffee, decaf or regular",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3d7b37f1704e",
+      "name": "Spiced Cider Steamers",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Spiced Cider Steamers is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Spiced Cider Steamers | Steamed milk with your choice of syrup (no coffee). Choose from: White Chocolate, Coconut, Vanilla, Caramel, or any other syrup flavor. Create your own combination!",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_722955e179fd",
+      "name": "Hot Chocolate Spiced Chai",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Hot Chocolate Spiced Chai is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Hot Chocolate Spiced Chai | Creamy blend of honey, vanilla, black tea & exotic spices",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b97427e192c0",
+      "name": "Espresso & milk over ice Iced Spiced Chai Latte",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Espresso & milk over ice Iced Spiced Chai Latte is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Espresso & milk over ice Iced Spiced Chai Latte | Creamy blend of honey, vanilla, black tea & exotic spices with milk over ice",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d3fc791fc217",
+      "name": "Blended Spiced Chai",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Blended Spiced Chai is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Blended Spiced Chai | Creamy frozen blend of honey, vanilla, black tea & exotic spices in blended ice",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b7aad66e834c",
+      "name": "Sherbet blended with soda water Book a Party",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Sherbet blended with soda water Book a Party is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Sherbet blended with soda water Book a Party | Cream City would be happy to host your next special event! You can learn more by reading our helpful FAQs or even take a peak at the space online to envision your perfect party. When you\u2019re ready to make a reservation, simply complete the form and we\u2019ll be in touch to confirm your booking!",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6c0070b58477",
+      "name": "About Us",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "About Us is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "About Us | With roots tracing back to the late 1890s, we\u2019re proud of our part in the history of Cookeville, TN. Discover the story of Cream City\u2019s journey to where it is today and how its iconic neon sign came to be.",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_35801ec2d15c",
+      "name": "Friday and Saturday 11am-11pm Sunday Noon-9pm",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Friday and Saturday 11am-11pm Sunday Noon-9pm is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Friday and Saturday 11am-11pm Sunday Noon-9pm | Follow us on Facebook for updates, discounts, and more OR let us know how we did with a quick review on Google!",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_822b576a78d8",
+      "name": "Custom Cakes\u200b",
+      "business": "The cakery",
+      "price": 3.5,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Custom Cakes\u200b is listed at $3.50",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Custom Cakes\u200b | Single tier starts at $3.50 per serving for basic decor (ex. flat iced with a single border) and goes up based on flavor, design and fondant work.",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5cfcc85d65eb",
+      "name": "Single tier starts at",
+      "business": "The cakery",
+      "price": 3.5,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Single tier starts at is listed at $3.50",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Single tier starts at $3.50 per serving for basic decor (ex. flat iced with a single border) and goes up based on flavor, design and fondant work.",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_80ab6dbad36f",
+      "name": "Multi tiered cakes start at",
+      "business": "The cakery",
+      "price": 4.25,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Multi tiered cakes start at is listed at $4.25",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Multi tiered cakes start at $4.25 per serving",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_eff7395e7c10",
+      "name": "to get this process started.",
+      "business": "The cakery",
+      "price": 40.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "to get this process started. is listed at $40.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "to get this process started. | Wedding tastings are $40.00 and must be scheduled in advance. This will include my most popular cake and buttercream flavors.",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_789daa89421f",
+      "name": "Cupcakes",
+      "business": "The cakery",
+      "price": 30.0,
+      "dessert_type": "cupcake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Cupcakes is listed at $30.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Cupcakes | Basic flavor $30/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d3171c40241c",
+      "name": "Handmade fondant toppers start at",
+      "business": "The cakery",
+      "price": 48.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Handmade fondant toppers start at is listed at $48.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Handmade fondant toppers start at $48/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f4081ad16b48",
+      "name": "Flower cupcakes start at",
+      "business": "The cakery",
+      "price": 54.0,
+      "dessert_type": "cupcake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Flower cupcakes start at is listed at $54.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Flower cupcakes start at $54/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_64210830cfc4",
+      "name": "Chocolate Dipped Strawberries",
+      "business": "The cakery",
+      "price": 25.0,
+      "dessert_type": null,
+      "flavors": [
+        "chocolate"
+      ],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Chocolate Dipped Strawberries is listed at $25.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Chocolate Dipped Strawberries | Plain chocolate (milk or white) with drizzle $25/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_aec0434e2612",
+      "name": "Chocolate Dipped Pretzels",
+      "business": "The cakery",
+      "price": 18.0,
+      "dessert_type": null,
+      "flavors": [
+        "chocolate"
+      ],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Chocolate Dipped Pretzels is listed at $18.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Chocolate Dipped Pretzels | Plain milk or white chocolate (Ghirardelli) with drizzle $18/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_89f138d6a55b",
+      "name": "1 dozen cookies",
+      "business": "The cakery",
+      "price": 18.0,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "1 dozen cookies is listed at $18.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "1 dozen cookies | $18/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_33e34080db9f",
+      "name": "\u200bChocolate Dipped Oreos",
+      "business": "The cakery",
+      "price": 30.0,
+      "dessert_type": null,
+      "flavors": [
+        "chocolate"
+      ],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "\u200bChocolate Dipped Oreos is listed at $30.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "\u200bChocolate Dipped Oreos | Plain chocolate (milk or white) with drizzle $30/dz",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1325192eef09",
+      "name": "Maple Blondie",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Maple Blondie is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Maple Blondie | Delicious maple ice cream with walnuts and blondie brownie chunks",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_822fc8bcf670",
+      "name": "Mint Cookie",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Mint Cookie is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Mint Cookie | Refreshing mint ice cream with pieces of Oreo cookies",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_945af4060bf0",
+      "name": "Cookie Butter",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Cookie Butter is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Cookie Butter | Speculaas cookie base ice cream with crushed cookies and semi-sweet chocolate chips",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3ff8d1dd2f61",
+      "name": "Chocolate Raspberry Truffle",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate Raspberry Truffle is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate Raspberry Truffle | Rich chocolate ice cream with a raspberry ribbon & mini chocolate raspberry truffles",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_aa7b9d4785d3",
+      "name": "Blueberry Cheesecake",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Blueberry Cheesecake is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Blueberry Cheesecake | Creamy cheesecake ice cream swirled with blueberries & real cheesecake pieces",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_bb1be581b758",
+      "name": "Salted Caramel",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Salted Caramel is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Salted Caramel | Creamy, salty caramel ice cream",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b476becd441a",
+      "name": "Cake Batter",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Cake Batter is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Cake Batter | Tastes just like licking the spoon at grandma\u2019s house",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2d382b36dad4",
+      "name": "Loaded Butterscotch",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Loaded Butterscotch is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Loaded Butterscotch | Butterscotch ice cream with a caramel weave loaded with Oreos & butterscotch chips",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6faf41c997ec",
+      "name": "Nutter Butter",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Nutter Butter is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Nutter Butter | Peanut butter ice cream loaded with Nutter Butter cookies & a peanut butter swirl",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e02028cc5c3f",
+      "name": "Chocolate Overload",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate Overload is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate Overload | Rich chocolate ice cream with fudge swirls & chocolate chunks",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_11466340913a",
+      "name": "Stellar Coffee",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Stellar Coffee is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Stellar Coffee | Coffee ice cream swirled with rich fudge",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5c68073667b8",
+      "name": "Pralines and Cream",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Pralines and Cream is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Pralines and Cream | Vanilla ice cream loaded with caramel & pralines",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_620ee2eddfd2",
+      "name": "Black Cherry",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Black Cherry is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Black Cherry | Creamy cherry ice cream with black cherries mixed in",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a2de24b80506",
+      "name": "Honey Roasted Pistachio",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Honey Roasted Pistachio is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Honey Roasted Pistachio | Delicious blend of honey and honey-roasted pistachios",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4be82553a52b",
+      "name": "Chocolate Peanut Butter Cup",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate Peanut Butter Cup is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate Peanut Butter Cup | Rich chocolate ice cream with a peanut butter swirl & mini peanut butter cups",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_422455f8fced",
+      "name": "Horchata",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Horchata is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Horchata | Sweet Mexican rice milk, cinnamon & coconut",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_475ebb103705",
+      "name": "Triple Chocolate Brownie",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Triple Chocolate Brownie is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Triple Chocolate Brownie | Brownie pieces, chocolate flakes & a chocolate swirl in a chocolate base",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_57ef3044d28c",
+      "name": "Strawberry",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Strawberry is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Strawberry | Strawberry ice cream with real strawberries",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b64a691ac7a8",
+      "name": "Banana Pudding",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Banana Pudding is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Banana Pudding | Banana ice cream with vanilla wafers & white chocolate chips",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fa725e5b3b3b",
+      "name": "Butter Pecan",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Butter Pecan is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Butter Pecan | Buttery ice cream loaded with pecans",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6f869fd5e1e6",
+      "name": "Red Velvet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Red Velvet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Red Velvet | Creamy red velvet ice cream with cream cheese icing and real red velvet cake bits",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3161c469f445",
+      "name": "Salty Honey",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Salty Honey is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Salty Honey | Creamy honey-flavored ice cream with a hint of salt",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c3bdb9ba9ae2",
+      "name": "Tennessee Fudge",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Tennessee Fudge is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Tennessee Fudge | Creamy vanilla ice cream with chocolate fudge swirls & chunks",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_bed5a7dc8a42",
+      "name": "Mint Chocolate Chip",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Mint Chocolate Chip is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Mint Chocolate Chip | Mint flavored ice cream with chocolate chips",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c9f0a19b47c6",
+      "name": "Carmel Cone",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Carmel Cone is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Carmel Cone | Caramel ice cream swirled with caramel sauce and chocolate-covered waffle cone bits",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c409723b4bda",
+      "name": "Toasted Coconut",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Toasted Coconut is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Toasted Coconut | Coconut ice cream loaded with toasted coconut",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c21d6494efb8",
+      "name": "Mexican Chocolate",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Mexican Chocolate is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Mexican Chocolate | Chocolate ice cream with cinnamon, Mexican vanilla & a hint of cayenne",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fceb22c065d2",
+      "name": "Coffee",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Coffee is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Coffee | Tastes like a glass of iced coffee you can enjoy a scoopable treat",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_acb2cee48a7f",
+      "name": "Chocolate",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate | Rich, creamy and indulgent, our chocolate ice cream is a classic",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_43be497250a0",
+      "name": "Superman",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Superman is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Superman | A heroic swirl of red cherry, yellow banana and blue blueberry ice creams",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_340740238a6b",
+      "name": "Rocky Road",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Rocky Road is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Rocky Road | Creamy chocolate ice cream with chopped nuts and marshmallows folded in",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8869cbfbc53d",
+      "name": "Vanilla",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Vanilla is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Vanilla | A rich blend of sweet cream and real vanilla give a sophisticated taste to this classic",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b2461b568112",
+      "name": "Blackberry Cornbread",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Blackberry Cornbread is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Blackberry Cornbread | Vanilla ice cream with blackberries and sweet cornbread pieces folded in",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b90add1daef9",
+      "name": "Cookies and Cream",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Cookies and Cream is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Cookies and Cream | A classic blend of vanilla-based ice cream and Oreo cookie chunks",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_95dd39226423",
+      "name": "Creamsicle",
+      "business": "Big O Donuts  Delivery",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Creamsicle is listed on the menu",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "8. Creamsicle L orange Smoothie",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2c97167b8c9f",
+      "name": "Filled and Specialty Donuts (Dozen)",
+      "business": "Big O Donuts  Delivery",
+      "price": 24.19,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Filled and Specialty Donuts (Dozen) is listed at $24.19",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Filled and Specialty Donuts (Dozen) | $24.19",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1f12d955c344",
+      "name": "Biscuit with Chocolate Gravy",
+      "business": "Big O Donuts  Delivery",
+      "price": 5.29,
+      "dessert_type": null,
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Biscuit with Chocolate Gravy is listed at $5.29",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Biscuit with Chocolate Gravy | $5.29",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5d62e7227f97",
+      "name": "Filled and Specialty Donut",
+      "business": "Big O Donuts  Delivery",
+      "price": 2.59,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Filled and Specialty Donut is listed at $2.59",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Filled and Specialty Donut | $2.59",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_acaaf1f63098",
+      "name": "Donut Holes Dozen",
+      "business": "Big O Donuts  Delivery",
+      "price": 4.19,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Donut Holes Dozen is listed at $4.19",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Donut Holes Dozen | $4.19",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c64585ebc9d6",
+      "name": "Donut Holes (3pc)",
+      "business": "Big O Donuts  Delivery",
+      "price": 1.09,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Donut Holes (3pc) is listed at $1.09",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Donut Holes (3pc) | $1.09",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f655103039fe",
+      "name": "Donut Holes Half Dozen",
+      "business": "Big O Donuts  Delivery",
+      "price": 2.19,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Donut Holes Half Dozen is listed at $2.19",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Donut Holes Half Dozen | $2.19",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d97317f9869f",
+      "name": "Fritter Bites",
+      "business": "Big O Donuts  Delivery",
+      "price": 0.99,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Fritter Bites is listed at $0.99",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Fritter Bites | $0.99",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_136bf4285743",
+      "name": "Apple Fritters",
+      "business": "Big O Donuts  Delivery",
+      "price": 6.09,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Apple Fritters is listed at $6.09",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Apple Fritters | $6.09",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_13774f8fe0d7",
+      "name": "Cinnamon Bun",
+      "business": "Big O Donuts  Delivery",
+      "price": 6.09,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "829 E Spring Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+      "evidence": [
+        {
+          "claim": "Cinnamon Bun is listed at $6.09",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/big-o-donuts--menu/83",
+          "source_text": "Cinnamon Bun | $6.09",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d5041879e0e1",
+      "name": "GOT MILK?",
+      "business": "Ralph's Donut Delivery",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "GOT MILK? is listed on the menu",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "GOT MILK?",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1d9b91dba5b3",
+      "name": "Buttertwist",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Buttertwist is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Buttertwist | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9bd7aa7c5bf1",
+      "name": "FULL DOZEN MIXED Donut",
+      "business": "Ralph's Donut Delivery",
+      "price": 18.69,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "FULL DOZEN MIXED Donut is listed at $18.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "FULL DOZEN MIXED Donut | $18.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a92f2682abdd",
+      "name": "Blueberry Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Blueberry Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Blueberry Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_cf9949560331",
+      "name": "Raspberry Filled",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Raspberry Filled is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Raspberry Filled | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c91e61dba14d",
+      "name": "Glazed",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Glazed is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Glazed | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b3ee653904eb",
+      "name": "Cinnamon Twist",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Cinnamon Twist is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Cinnamon Twist | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_0b6e5e1f3b96",
+      "name": "Chocolate Twist",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "donut",
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Chocolate Twist is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Chocolate Twist | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_30efc49933f4",
+      "name": "Custard Filled",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Custard Filled is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Custard Filled | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_64a0d96d0007",
+      "name": "Long John Cream",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Long John Cream is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Long John Cream | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_07b3b0675656",
+      "name": "Maple Cake W / Peanuts",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Maple Cake W / Peanuts is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Maple Cake W / Peanuts | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1dec480eba35",
+      "name": "Choc.Cake W / Peanuts",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Choc.Cake W / Peanuts is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Choc.Cake W / Peanuts | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_aa7259dae5ef",
+      "name": "Sprinkles W/Choc,Icing",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Sprinkles W/Choc,Icing is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Sprinkles W/Choc,Icing | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_77e4caf24051",
+      "name": "Sprinkles W / White Icing",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Sprinkles W / White Icing is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Sprinkles W / White Icing | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f7cae7089975",
+      "name": "Jelly Filled With Peanut Butter Icing",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Jelly Filled With Peanut Butter Icing is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Jelly Filled With Peanut Butter Icing | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_40958aaec2e8",
+      "name": "Vanilla Iced Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Vanilla Iced Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Vanilla Iced Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_24b451238735",
+      "name": "Cake Sticks",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Cake Sticks is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Cake Sticks | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_078e50cbbfb5",
+      "name": "Lemon Filled",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Lemon Filled is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Lemon Filled | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6a16f499e236",
+      "name": "Cinnamon Sugar Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Cinnamon Sugar Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Cinnamon Sugar Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4e6f81093873",
+      "name": "Choc.Covered Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Choc.Covered Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Choc.Covered Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8acf20e22594",
+      "name": "Plain Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Plain Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Plain Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4bd25b8d3ccf",
+      "name": "Powdered Sugar Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Powdered Sugar Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Powdered Sugar Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e52ec66923da",
+      "name": "Fudge Brownies",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "brownie",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Fudge Brownies is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Fudge Brownies | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_28ef2bfb57d3",
+      "name": "Old Fashion Cake",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Old Fashion Cake is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Old Fashion Cake | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_251e17b0ba4b",
+      "name": "Chocolate Cream Filled",
+      "business": "Ralph's Donut Delivery",
+      "price": 1.69,
+      "dessert_type": null,
+      "flavors": [
+        "chocolate"
+      ],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Chocolate Cream Filled is listed at $1.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Chocolate Cream Filled | $1.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_15b2929d3265",
+      "name": "1/2 DOZEN Donut (1 Kind)",
+      "business": "Ralph's Donut Delivery",
+      "price": 9.89,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "1/2 DOZEN Donut (1 Kind) is listed at $9.89",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "1/2 DOZEN Donut (1 Kind) | $9.89",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_06eefa716ed7",
+      "name": "Full DOZEN Donut (1 Kind)",
+      "business": "Ralph's Donut Delivery",
+      "price": 18.69,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Full DOZEN Donut (1 Kind) is listed at $18.69",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Full DOZEN Donut (1 Kind) | $18.69",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_39bc4ae50cf2",
+      "name": "1/2 DOZEN MIXED Donut",
+      "business": "Ralph's Donut Delivery",
+      "price": 9.89,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "1/2 DOZEN MIXED Donut is listed at $9.89",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "1/2 DOZEN MIXED Donut | $9.89",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c4814c7187c8",
+      "name": "Donut Holes Each",
+      "business": "Ralph's Donut Delivery",
+      "price": 0.59,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Donut Holes Each is listed at $0.59",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Donut Holes Each | $0.59",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5b5c2f3e8aa9",
+      "name": "Donut Holes Half Doz",
+      "business": "Ralph's Donut Delivery",
+      "price": 2.79,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Donut Holes Half Doz is listed at $2.79",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Donut Holes Half Doz | $2.79",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_7cc7420244f1",
+      "name": "Donut Holes Dozen",
+      "business": "Ralph's Donut Delivery",
+      "price": 5.49,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Donut Holes Dozen is listed at $5.49",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Donut Holes Dozen | $5.49",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_126e19227608",
+      "name": "Apple Fritters",
+      "business": "Ralph's Donut Delivery",
+      "price": 4.39,
+      "dessert_type": "donut",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Apple Fritters is listed at $4.39",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Apple Fritters | $4.39",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_55823eb57db2",
+      "name": "Blueberry Muffins",
+      "business": "Ralph's Donut Delivery",
+      "price": 3.29,
+      "dessert_type": "muffin",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Blueberry Muffins is listed at $3.29",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Blueberry Muffins | $3.29",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_33c2f8f1975e",
+      "name": "Devils Food Muffins",
+      "business": "Ralph's Donut Delivery",
+      "price": 3.29,
+      "dessert_type": "muffin",
+      "flavors": [],
+      "address": "59 South Ceder Avenue, cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+      "evidence": [
+        {
+          "claim": "Devils Food Muffins is listed at $3.29",
+          "source_url": "https://www.wedeliverinc.com/order/restaurant/ralphs-donut-menu/113",
+          "source_text": "Devils Food Muffins | $3.29",
+          "checked_at": "2026-11-16T23:29:09.948944+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    }
+  ]
+}

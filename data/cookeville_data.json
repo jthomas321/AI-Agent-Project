@@ -1,0 +1,530 @@
+
+[
+  {
+    "dessert_id": "cookeville_001",
+    "name": "Cupcake",
+    "business": "Jamie's Eats and Sweets",
+    "price": 3.00,
+    "dessert_type": "cupcake",
+    "flavors": [],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Cupcake listed for $3.00; flavor varies.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Cupcake A surprise cupcake flavor! A moist cake topped with cream cheese or buttercream frosting. $3.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_002",
+    "name": "Brownie",
+    "business": "Jamie's Eats and Sweets",
+    "price": 5.00,
+    "dessert_type": "brownie",
+    "flavors": [],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Brownie listed for $5.00.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Brownie A rich and moist brownie! $5.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_003",
+    "name": "Chocolate Chip Cookie",
+    "business": "Jamie's Eats and Sweets",
+    "price": 2.00,
+    "dessert_type": "cookie",
+    "flavors": ["chocolate"],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Chocolate Chip Cookie listed for $2.00.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Chocolate Chip Cookie A classic that takes us back home $2.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_004",
+    "name": "Blueberry Cheesecake Muffin",
+    "business": "Jamie's Eats and Sweets",
+    "price": 4.00,
+    "dessert_type": "muffin",
+    "flavors": ["blueberry"],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Blueberry Cheesecake Muffin listed for $4.00.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Blueberry Cheesecake Muffin A muffin with a cheesecake center, and cinnamon streusel topping. Common flavors include: blueberry, strawberry, mixed berry, pumpkin, and banana $4.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_005",
+    "name": "Chocolate Cake Slice",
+    "business": "Jamie's Eats and Sweets",
+    "price": 5.25,
+    "dessert_type": "cake",
+    "flavors": ["chocolate"],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Chocolate Cake Slice listed for $5.25.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Chocolate Cake Slice $5.25",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_006",
+    "name": "Strawberry Cake Slice",
+    "business": "Jamie's Eats and Sweets",
+    "price": 5.25,
+    "dessert_type": "cake",
+    "flavors": ["strawberry"],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Strawberry Cake Slice listed for $5.25.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Strawberry Cake Slice $5.25",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_007",
+    "name": "Lemon Cake Slice",
+    "business": "Jamie's Eats and Sweets",
+    "price": 5.25,
+    "dessert_type": "cake",
+    "flavors": ["lemon"],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Lemon Cake Slice listed for $5.25.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Lemon Cake Slice $5.25",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_008",
+    "name": "Brown Sugar Espresso Cinnamon Rolls",
+    "business": "Jamie's Eats and Sweets",
+    "price": 4.00,
+    "dessert_type": "pastry",
+    "flavors": [],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "Brown Sugar Espresso Cinnamon Rolls listed for $4.00.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Brown Sugar Espresso Cinnamon Rolls $4.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_009",
+    "name": "Chocolate Handpie",
+    "business": "Meg's Bread",
+    "price": 4.75,
+    "dessert_type": "pastry",
+    "flavors": ["chocolate"],
+    "address": "52 Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+    "evidence": [
+      {
+        "claim": "Chocolate Handpie listed for $4.75.",
+        "source_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+        "source_text": "Chocolate Handpie $4.75",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_010",
+    "name": "Rye Brownies",
+    "business": "Meg's Bread",
+    "price": 3.50,
+    "dessert_type": "brownie",
+    "flavors": [],
+    "address": "52 Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+    "evidence": [
+      {
+        "claim": "Rye Brownies listed for $3.50.",
+        "source_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+        "source_text": "Rye Brownies $3.50",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_011",
+    "name": "Chocolate Chip Cookie",
+    "business": "Meg's Bread",
+    "price": 3.00,
+    "dessert_type": "cookie",
+    "flavors": ["chocolate"],
+    "address": "52 Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+    "evidence": [
+      {
+        "claim": "Chocolate Chip Cookie listed for $3.00.",
+        "source_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+        "source_text": "Chocolate Chip Cookie $3.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_012",
+    "name": "Ginger Molasses Cream Pie",
+    "business": "Meg's Bread",
+    "price": 4.50,
+    "dessert_type": "pie",
+    "flavors": ["ginger", "molasses"],
+    "address": "52 Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+    "evidence": [
+      {
+        "claim": "Ginger Molasses Cream Pie listed for $4.50.",
+        "source_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+        "source_text": "Ginger Molasses Cream Pie (GF) $4.50",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_013",
+    "name": "Chocolate Croissant",
+    "business": "Meg's Bread",
+    "price": 5.00,
+    "dessert_type": "pastry",
+    "flavors": ["chocolate"],
+    "address": "52 Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+    "evidence": [
+      {
+        "claim": "Chocolate Croissant listed for $5.00.",
+        "source_url": "https://chimes-sepia-435r.squarespace.com/menus1",
+        "source_text": "Croissants Chocolate $5.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_014",
+    "name": "1 Dozen Mini Cupcakes",
+    "business": "The Wild Flour Bakery",
+    "price": 15.00,
+    "dessert_type": "cupcake",
+    "flavors": [],
+    "address": "1307 Pondview Cir, Cookeville, TN 38506",
+    "distance_miles": null,
+    "menu_url": "https://thewildflourbakerytn.square.site/",
+    "evidence": [
+      {
+        "claim": "One dozen mini cupcakes listed starting at $15.00; listing marked unavailable when checked.",
+        "source_url": "https://thewildflourbakerytn.square.site/",
+        "source_text": "1 Dozen Mini Cupcakes. Available by the dozen or as part of special orders. Unavailable $15.00+",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_015",
+    "name": "1 Dozen Standard Size Cupcakes",
+    "business": "The Wild Flour Bakery",
+    "price": 24.00,
+    "dessert_type": "cupcake",
+    "flavors": [],
+    "address": "1307 Pondview Cir, Cookeville, TN 38506",
+    "distance_miles": null,
+    "menu_url": "https://thewildflourbakerytn.square.site/",
+    "evidence": [
+      {
+        "claim": "One dozen standard cupcakes listed starting at $24.00; listing marked unavailable when checked.",
+        "source_url": "https://thewildflourbakerytn.square.site/",
+        "source_text": "1 Dozen Standard Size Cupcakes. Unavailable $24.00+",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_016",
+    "name": "Cookie Sandwiches",
+    "business": "The Wild Flour Bakery",
+    "price": 6.00,
+    "dessert_type": "cookie",
+    "flavors": [],
+    "address": "1307 Pondview Cir, Cookeville, TN 38506",
+    "distance_miles": null,
+    "menu_url": "https://thewildflourbakerytn.square.site/",
+    "evidence": [
+      {
+        "claim": "Cookie Sandwiches listed for $6.00; listing marked unavailable when checked.",
+        "source_url": "https://thewildflourbakerytn.square.site/",
+        "source_text": "Cookie Sandwiches Two soft, chewy cookies with a dreamy layer of filling in between. Unavailable $6.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_017",
+    "name": "Pecan Pie",
+    "business": "The Wild Flour Bakery",
+    "price": 25.00,
+    "dessert_type": "pie",
+    "flavors": [],
+    "address": "1307 Pondview Cir, Cookeville, TN 38506",
+    "distance_miles": null,
+    "menu_url": "https://thewildflourbakerytn.square.site/",
+    "evidence": [
+      {
+        "claim": "Pecan Pie listed for $25.00; listing marked unavailable when checked.",
+        "source_url": "https://thewildflourbakerytn.square.site/",
+        "source_text": "Pecan Pie Unavailable $25.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_018",
+    "name": "Vanilla Cake with Buttercream, 6 Inch, 2 Layer",
+    "business": "The Wild Flour Bakery",
+    "price": 25.00,
+    "dessert_type": "cake",
+    "flavors": ["vanilla"],
+    "address": "1307 Pondview Cir, Cookeville, TN 38506",
+    "distance_miles": null,
+    "menu_url": "https://thewildflourbakerytn.square.site/",
+    "evidence": [
+      {
+        "claim": "Six-inch, two-layer vanilla cake listed for $25.00; listing marked unavailable when checked.",
+        "source_url": "https://thewildflourbakerytn.square.site/",
+        "source_text": "Vanilla Cake with Buttercream, 6 Inch, 2 Layer Unavailable $25.00",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_019",
+    "name": "Cupcakes",
+    "business": "Heavenly Bites By Cora",
+    "price": null,
+    "dessert_type": "cupcake",
+    "flavors": [],
+    "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+    "evidence": [
+      {
+        "claim": "Cupcakes are offered; no specific price confirmed.",
+        "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+        "source_text": "We've only had the cupcakes there so far and they are AMAZING!! Super clean space with a huge variety of yummy treats!",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_020",
+    "name": "Strawberry Cheesecake",
+    "business": "Heavenly Bites By Cora",
+    "price": null,
+    "dessert_type": "cheesecake",
+    "flavors": ["strawberry"],
+    "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+    "evidence": [
+      {
+        "claim": "Strawberry cheesecake mentioned by a customer; price not published in the available evidence.",
+        "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+        "source_text": "Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_021",
+    "name": "Apple Crisp Mini Pie",
+    "business": "Heavenly Bites By Cora",
+    "price": null,
+    "dessert_type": "pie",
+    "flavors": ["apple"],
+    "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+    "evidence": [
+      {
+        "claim": "Apple crisp mini pie mentioned by a customer; price not published in the available evidence.",
+        "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+        "source_text": "Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+
+  {
+    "dessert_id": "cookeville_022",
+    "name": "Macarons",
+    "business": "Carrie's Sweets & Treats",
+    "price": null,
+    "dessert_type": "macaron",
+    "flavors": [],
+    "address": null,
+    "distance_miles": null,
+    "menu_url": "https://carriekoffas.wixsite.com/carriessweetsandtr-1",
+    "evidence": [
+      {
+        "claim": "The business advertises homemade macarons, but does not publish an individual price.",
+        "source_url": "https://carriekoffas.wixsite.com/carriessweetsandtr-1",
+        "source_text": "I make custom cakes, AMAZING MACARONS, cupcakes, cookies and more! Need A Price Quote? Interested in learning more about me, my work or how we can plan an upcoming party? Feel free to reach out anytime.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_023",
+    "name": "Custom Cake",
+    "business": "The Cakery",
+    "price": null,
+    "dessert_type": "cake",
+    "flavors": [],
+    "address": "2919 Herald Court, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+    "evidence": [
+      {
+        "claim": "Custom cakes require an individual quote. A starting price is published, but the final price is unknown.",
+        "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+        "source_text": "Single tier starts at $3.50 per serving for basic decor. Multi tiered cakes start at $4.25 per serving. Each custom cake requires its own special quote.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_024",
+    "name": "Strawberry Cheesecake",
+    "business": "Heavenly Bites By Cora",
+    "price": null,
+    "dessert_type": "cheesecake",
+    "flavors": ["strawberry"],
+    "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+    "evidence": [
+      {
+        "claim": "A customer mentions strawberry cheesecake, but no price is provided.",
+        "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+        "source_text": "Strawberry cheesecake and apple crisp mini pie exceeded our expectations.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_025",
+    "name": "Basic Flavor Cupcakes (Dozen)",
+    "business": "The Cakery",
+    "price": 30.00,
+    "dessert_type": "cupcake",
+    "flavors": [],
+    "address": "2919 Herald Court, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+    "evidence": [
+      {
+        "claim": "Basic flavor cupcakes are listed at $30 per dozen.",
+        "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+        "source_text": "Cupcakes. Basic flavor $30/dz. Specialty flavor $36/dz.",
+        "checked_at": "2026-11-02"
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "cookeville_026",
+    "name": "Dozen Cupcakes",
+    "business": "Jamie's Eats and Sweets",
+    "price": null,
+    "dessert_type": "cupcake",
+    "flavors": [],
+    "address": "50 W Broad St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": "https://jamieseatsandsweets.com/menu",
+    "evidence": [
+      {
+        "claim": "One indexed menu snapshot lists $28.00 per dozen.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Dozen Cupcakes Assorted cupcakes of the day! 05/20: Lemon Blueberry, Carrot, Vanilla $28.00",
+        "checked_at": null
+      },
+      {
+        "claim": "A separate indexed menu snapshot lists $30.00 per dozen.",
+        "source_url": "https://jamieseatsandsweets.com/menu",
+        "source_text": "Dozen Cupcakes Assorted cupcakes of the day! 05/20: Lemon Blueberry, Carrot, Vanilla $30.00",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  }
+]

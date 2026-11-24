@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.venv/
+data/review_cache/
+data/recommendation_output/
+searxng-settings.yml
+data/research_cache/
+*.csv
+prediction_model_files_to_create/restaurant-menus.csv
+prediction_model_files_to_create/data/data_used.zip

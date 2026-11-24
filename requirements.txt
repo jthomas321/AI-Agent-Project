@@ -1,0 +1,11 @@
+streamlit>=1.30
+pytest>=8.0
+beautifulsoup4>=4.12
+certifi
+playwright>=1.40
+pytesseract>=0.3.10
+pillow>=10.0
+joblib>=1.4
+scikit-learn==1.8.0
+pandas>=2.2
+ollama

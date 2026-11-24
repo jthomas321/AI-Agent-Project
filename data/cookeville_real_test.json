@@ -1,0 +1,190 @@
+[
+  {
+    "dessert_id": "real_001",
+    "name": "Chocolate fudge",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Chocolate fudge ice cream is among the listed flavors",
+        "source_url": "https://wanderlog.com/place/details/3018818/cream-city-ice-cream--coffee-house",
+        "source_text": "flavors such as blueberry, chocolate fudge, caramel truffle",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_002",
+    "name": "Banana split",
+    "business": "Cream City Ice Cream & Coffee House",
+    "price": null,
+    "dessert_type": "sundae",
+    "flavors": [],
+    "address": "119 W Broad St, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Cream City can make a banana split",
+        "source_url": "https://tnvacation.com/trip-inspiration/articles/spend-day-small-town-cookeville-tn",
+        "source_text": "Cream City also can make you a milkshake, smoothie, banana split",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_003",
+    "name": "Milk chocolate",
+    "business": "Lazy Cow Creamery",
+    "price": null,
+    "dessert_type": "ice cream",
+    "flavors": [
+      "chocolate"
+    ],
+    "address": "699 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Milk chocolate ice cream is listed as an exceptional flavor",
+        "source_url": "https://wanderlog.com/place/details/3018741/lazy-cow-creamery",
+        "source_text": "flavors like milk chocolate and double vanilla",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_004",
+    "name": "Turtle Sundae",
+    "business": "Lazy Cow Creamery",
+    "price": null,
+    "dessert_type": "sundae",
+    "flavors": [],
+    "address": "699 S Willow Ave, Cookeville, TN",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Turtle Sundae is a reviewer favorite",
+        "source_url": "https://wanderlog.com/place/details/3018741/lazy-cow-creamery",
+        "source_text": "Reviewers rave about the Turtle Sundae",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_005",
+    "name": "California Tart",
+    "business": "20 Degrees Frozen Yogurt Lounge",
+    "price": null,
+    "dessert_type": "frozen yogurt",
+    "flavors": [
+      "california tart"
+    ],
+    "address": "377 W Jackson St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "California Tart frozen yogurt is a flavor offered (flavors rotate)",
+        "source_url": "https://wanderlog.com/place/details/3018790",
+        "source_text": "The California Tart flavor receives special mention",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_006",
+    "name": "Rolled Ice Cream",
+    "business": "20 Degrees Frozen Yogurt Lounge",
+    "price": null,
+    "dessert_type": "rolled ice cream",
+    "flavors": [],
+    "address": "377 W Jackson St, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Rolled Ice Cream is on the menu",
+        "source_url": "https://www.ubereats.com/store/20-degrees-frozen-yogurt-lounge/qqjDVtteT4GNAOrnkhMhsA",
+        "source_text": "the Rolled Ice Cream",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_007",
+    "name": "Apple fritter",
+    "business": "Ralph's Donut Shop",
+    "price": null,
+    "dessert_type": "donut",
+    "flavors": [
+      "apple"
+    ],
+    "address": "59 S Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Ralph's is known for its apple fritter",
+        "source_url": "https://www.thedailymeal.com/eat/ralph-s-donut-shop-serves-best-donut-tennessee/",
+        "source_text": "The giant, lumpy apple fritter at local landmark Ralph's",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_008",
+    "name": "Butter twist",
+    "business": "Ralph's Donut Shop",
+    "price": null,
+    "dessert_type": "donut",
+    "flavors": [],
+    "address": "59 S Cedar Ave, Cookeville, TN 38501",
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "The butter twist is a well-known Ralph's item",
+        "source_url": "https://wanderlog.com/place/details/1058652/ralphs-donut-shop",
+        "source_text": "the famous butter twist",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  },
+  {
+    "dessert_id": "real_009",
+    "name": "Crumbl cookie",
+    "business": "Crumbl",
+    "price": null,
+    "dessert_type": "cookie",
+    "flavors": [],
+    "address": null,
+    "distance_miles": null,
+    "menu_url": null,
+    "evidence": [
+      {
+        "claim": "Crumbl is listed as a Cookeville business; no menu or address confirmed",
+        "source_url": "https://www.ubereats.com/dish/cookeville-tn/apple-crumble",
+        "source_text": "Crumbl (Cookeville, TN)",
+        "checked_at": null
+      }
+    ],
+    "verification_status": "unverified"
+  }
+]

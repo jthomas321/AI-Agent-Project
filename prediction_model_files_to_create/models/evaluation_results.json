@@ -1,0 +1,59 @@
+{
+  "baseline": {
+    "method": "Category Baseline",
+    "mae": 2.2198889254265777,
+    "rmse": 3.320390283215108,
+    "coverage": 0.9087653915013336,
+    "average_width": 8.780555007490225,
+    "margin": 4.639999999999999
+  },
+  "ridge": {
+    "method": "TF-IDF + Ridge Regression",
+    "mae": 1.1749429045768558,
+    "rmse": 1.9227136397969322,
+    "coverage": 0.901677079907925,
+    "average_width": 5.701942724918792,
+    "margin": 2.901779663747827
+  },
+  "improved_ridge": {
+    "method": "Category-Calibrated Ridge",
+    "mae": 1.1749429045768558,
+    "coverage": 0.8687931601446892,
+    "average_width": 5.097894702781376,
+    "category_margins": {
+      "banana split": 3.5742229915823156,
+      "brownie": 2.556981127323088,
+      "cake": 3.9116234441373736,
+      "cheesecake": 3.1116018169847557,
+      "churro": 3.361401953083109,
+      "cookie": 2.1748758578187584,
+      "donut": 2.554755249895153,
+      "frozen yogurt": 2.879273683153249,
+      "ice cream": 2.222258790918932,
+      "macaron": 2.8686894874434783,
+      "milkshake": 1.960959946681557,
+      "pastry": 2.1414003863350746,
+      "pie": 5.541430971047524,
+      "pudding": 3.470410582558869,
+      "sundae": 1.5338367834009436
+    },
+    "type_minimums": {
+      "banana split": 3.645,
+      "brownie": 2.0,
+      "cake": 1.99,
+      "cheesecake": 2.364000000000001,
+      "churro": 1.79,
+      "cookie": 1.29,
+      "donut": 1.19,
+      "frozen yogurt": 4.38,
+      "ice cream": 2.09,
+      "macaron": 2.184,
+      "milkshake": 3.49,
+      "pastry": 1.89,
+      "pie": 1.63,
+      "pudding": 2.52,
+      "sundae": 2.19
+    }
+  },
+  "preferred_method": "TF-IDF + Ridge Regression"
+}
