@@ -1,0 +1,3848 @@
+{
+  "timestamp": 1795039709.856046,
+  "desserts": [
+    {
+      "dessert_id": "web_b2aa141f2be7",
+      "name": "Choose any Ice Cream Flavor for a Milkshake or Float",
+      "business": "Lazycowcreamery",
+      "price": 5.97,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/menu/ice-cream/",
+      "evidence": [
+        {
+          "claim": "Choose any Ice Cream Flavor for a Milkshake or Float is listed at $5.97",
+          "source_url": "https://lazycowcreamery.com/menu/ice-cream/",
+          "source_text": "Choose any Ice Cream Flavor for a Milkshake or Float | $5.97 (9 oz)",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_0b71ae92a6ab",
+      "name": "Cookie Dough",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Cookie Dough is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Cookie Dough",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5ff8a670488e",
+      "name": "An ice cream of your choice, blended with milk, and topped with whipped cream. Add a shot of esspresso or make it a malt for",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": 0.25,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "An ice cream of your choice, blended with milk, and topped with whipped cream. Add a shot of esspresso or make it a malt for is listed at $0.25",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "An ice cream of your choice, blended with milk, and topped with whipped cream. Add a shot of esspresso or make it a malt for $0.25",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9cef49fcd453",
+      "name": "Triple Berry Sorbet Triple Berry Sorbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Triple Berry Sorbet Triple Berry Sorbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Triple Berry Sorbet Triple Berry Sorbet | This tasty tangy treat is a blend of Strawberries, Raspberries, Blackberries, and Blueberries",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d2573456b179",
+      "name": "Orange Sherbet Orange Sherbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Orange Sherbet Orange Sherbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Orange Sherbet Orange Sherbet | Creamy, tropical taste with a delicious orange flavor",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_cad026b631e0",
+      "name": "Triple Berry Sorbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Triple Berry Sorbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Triple Berry Sorbet | This tasty tangy treat is a blend of Strawberries, Raspberries, Blackberries, and Blueberries",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_de4969457442",
+      "name": "Orange Sherbet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Orange Sherbet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Orange Sherbet | Creamy, tropical taste with a delicious orange flavor",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f26751a181b8",
+      "name": "Floats",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Floats is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Floats | Your choice of icecream in a 16oz cup filled with coke, rootbeer, orange, or cream soda. Topped with whipped cream",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_52b01642cd21",
+      "name": "Sundaes",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Sundaes is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Sundaes | One scoop of your choice of ice cream plus one topping, whipped cream, and peanuts",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ad99fc715b34",
+      "name": "Banana Split",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Banana Split is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Banana Split | Your choice of three scoops of ice cream, three toppings, whipped cream, peanuts, and a cherry",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ae53e16ff25c",
+      "name": "Milkshakes",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Milkshakes is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Milkshakes | An ice cream of your choice, blended with milk, and topped with whipped cream. Add a shot of esspresso or make it a malt for $0.25",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_7fbcff18515c",
+      "name": "Extras",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Extras is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Extras | Espresso Shot, Flavor Shot and Substitution of Chocolate Milk, Soy Milk, or Half-&-Half",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e0d7407b067f",
+      "name": "Special Blend",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Special Blend is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Special Blend | A piping hot cup of our house blend coffee, decaf or regular",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3d7b37f1704e",
+      "name": "Spiced Cider Steamers",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Spiced Cider Steamers is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Spiced Cider Steamers | Steamed milk with your choice of syrup (no coffee). Choose from: White Chocolate, Coconut, Vanilla, Caramel, or any other syrup flavor. Create your own combination!",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_722955e179fd",
+      "name": "Hot Chocolate Spiced Chai",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Hot Chocolate Spiced Chai is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Hot Chocolate Spiced Chai | Creamy blend of honey, vanilla, black tea & exotic spices",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b97427e192c0",
+      "name": "Espresso & milk over ice Iced Spiced Chai Latte",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Espresso & milk over ice Iced Spiced Chai Latte is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Espresso & milk over ice Iced Spiced Chai Latte | Creamy blend of honey, vanilla, black tea & exotic spices with milk over ice",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d3fc791fc217",
+      "name": "Blended Spiced Chai",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Blended Spiced Chai is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Blended Spiced Chai | Creamy frozen blend of honey, vanilla, black tea & exotic spices in blended ice",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b7aad66e834c",
+      "name": "Sherbet blended with soda water Book a Party",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Sherbet blended with soda water Book a Party is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Sherbet blended with soda water Book a Party | Cream City would be happy to host your next special event! You can learn more by reading our helpful FAQs or even take a peak at the space online to envision your perfect party. When you\u2019re ready to make a reservation, simply complete the form and we\u2019ll be in touch to confirm your booking!",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6c0070b58477",
+      "name": "About Us",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "About Us is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "About Us | With roots tracing back to the late 1890s, we\u2019re proud of our part in the history of Cookeville, TN. Discover the story of Cream City\u2019s journey to where it is today and how its iconic neon sign came to be.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_35801ec2d15c",
+      "name": "Friday and Saturday 11am-11pm Sunday Noon-9pm",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/",
+      "evidence": [
+        {
+          "claim": "Friday and Saturday 11am-11pm Sunday Noon-9pm is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/",
+          "source_text": "Friday and Saturday 11am-11pm Sunday Noon-9pm | Follow us on Facebook for updates, discounts, and more OR let us know how we did with a quick review on Google!",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_abe045212693",
+      "name": "Sorbet Delight",
+      "business": "View Our",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://20degreesfroyo.com/menu/",
+      "evidence": [
+        {
+          "claim": "Sorbet Delight is listed on the menu",
+          "source_url": "https://20degreesfroyo.com/menu/",
+          "source_text": "Sorbet Delight",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_10bc0122d72b",
+      "name": "Apple Pie",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Apple Pie is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Apple Pie | Smooth and creamy apple ice cream made with real apple pie filling, blended graham crackers, and just enough cinnamon.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5e220fca4150",
+      "name": "Banana Pudding",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Banana Pudding is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Banana Pudding | Flavored only with pounds and pounds of real bananas, colored with all-natural plant-based colors, and filled with real Nilla Wafer cookies.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9f1a9ae57c65",
+      "name": "Birthday Cake",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Birthday Cake is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Birthday Cake | An all-natural plant-based cake batter flavor loaded with naturally-colored rainbow sprinkles.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1d212d45869c",
+      "name": "DF Birthday Cake",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "DF Birthday Cake is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "DF Birthday Cake | An all-natural plant-based cake batter flavor loaded with naturally-colored rainbow sprinkles. A Dairy-Free version of our classic Traditional ice cream.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a38aa3c1ae0d",
+      "name": "Brown Butter Pecan",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Brown Butter Pecan is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Brown Butter Pecan | Flavored only with real butter that we brown right inside the store and loaded with real roasted and salted Georgia pecans.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3026dd2c5c40",
+      "name": "NSA Brown Butter Pecan",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "NSA Brown Butter Pecan is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "NSA Brown Butter Pecan | A buttery and slightly sweet ice cream made with salted Georgia pecans but no added sugar. Made with our proprietary Keto/No Sugar Added ice cream mix.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c08316dfdb5f",
+      "name": "Butter Pecan Crunch",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Butter Pecan Crunch is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Butter Pecan Crunch | One of our signature flavors: a brown sugar Madagascar vanilla ice cream filled with pieces of our handmade butter pecan brittle.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b8db81df2be5",
+      "name": "Caramel Toffee",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Caramel Toffee is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Caramel Toffee | Flavored only with real salted caramel made fresh right inside our ice cream kitchen and filled with handmade butter toffee candies.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_485b7007dfef",
+      "name": "Cherry Brown Cow",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Cherry Brown Cow is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Cherry Brown Cow | Flavored only with real dark sweet cherries and loaded with our handmade milk chocolate chunks. Colored with all-natural plant-based colors.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_01e450ebf787",
+      "name": "Chocolate Milk",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Chocolate Milk is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Chocolate Milk | Our standard chocolate: a little richer than theirs. Made with bittersweet Guittard chocolates and just enough sugar to be creamy, yet chewy.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_0364b6d34ef5",
+      "name": "Chocolate Mousse Chunk",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Chocolate Mousse Chunk is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Chocolate Mousse Chunk | Half as rich as our Chocolate Milk ice cream and filled with handmade dark chocolate chunks.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4acd79cb5083",
+      "name": "NSA Chocolate Mousse",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "NSA Chocolate Mousse is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "NSA Chocolate Mousse | A smooth, slightly sweet chocolate ice cream without the added sugar. Made with our proprietary Keto/No Sugar Added ice cream mix.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1bddcd3d73dc",
+      "name": "Chocolate Peanut Brittle",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Chocolate Peanut Brittle is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Chocolate Peanut Brittle | Sweet Cream ice cream filled with our handmade salted peanut brittle pieces and our handmade dark chocolate chunks.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6540734944ad",
+      "name": "DF Coconut Cookie Dough",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "DF Coconut Cookie Dough is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "DF Coconut Cookie Dough | A creamy coconut frozen dessert flavored only with real Madagascar vanilla extract and filled with our handmade Vegan chocolate chip cookie dough pieces.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_49c6ec10c9f2",
+      "name": "DF Coconut Fudge",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "DF Coconut Fudge is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "DF Coconut Fudge | A delightfully dark chocolate frozen dessert made with Enjoy Life vegan dark chocolate chips and a coconut milk base.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c524649a36a3",
+      "name": "Cookie Butter",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Cookie Butter is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Cookie Butter | Deliciously smooth and impossibly creamy cookie butter ice cream made only with Lotus Biscoff brand caramelized cookies.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ca3011607920",
+      "name": "Cookies & Cream",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Cookies & Cream is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Cookies & Cream | We blend up Oreo cookies into the ice cream base and then throw in chunks of whole Oreos for good measure.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_032a4c8b74ad",
+      "name": "Cookie Dough",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Cookie Dough is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Cookie Dough | Creamy Madagascar vanilla ice cream filled with our handmade gluten-free chocolate chip cookie dough pieces.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1914234301e9",
+      "name": "Cookie Monster",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Cookie Monster is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Cookie Monster | Creamy Madagascar vanilla ice cream filled with chunks of Oreo, Chips Ahoy, Fudge Stripe, and Golden Oreo cookies. It\u2019s the ultimate cookie ice cream!",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_86d7a50eec62",
+      "name": "Cotton Candy",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Cotton Candy is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Cotton Candy | The sweet taste of cotton candy in ice cream form. Made with all-natural plant-based colors and flavors.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_49783b7ade7e",
+      "name": "Double Vanilla",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Double Vanilla is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Double Vanilla | A double-shot of double-fold Madagascar bourbon vanilla extract creates the smoothest vanilla you\u2019ve ever tried.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e5af07ba6470",
+      "name": "Honeycomb Cinnamon Oat",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Honeycomb Cinnamon Oat is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Honeycomb Cinnamon Oat | Smooth and creamy real cinnamon ice cream filled with our handmade honeycomb candy and pieces of our handmade cinnamon oat streusel.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4aea98de8007",
+      "name": "Iced Coffee",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Iced Coffee is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Iced Coffee | Smooth and simple: the taste of coffee, sugar, and fresh cream swirled together. Flavored only with real coffee.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e0335ab7f541",
+      "name": "DF Iced Coffee",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "DF Iced Coffee is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "DF Iced Coffee | Just like a delicious glass of iced coffee swirled with organic sugar and dairy-free cream, but frozen! Flavored only with real coffee.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_cbc0c9208a07",
+      "name": "Mint Chunk",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Mint Chunk is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Mint Chunk | Made with all-natural peppermint extract and plant-based colors, then filled with our handmade dark chocolate chunks.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f3cbb3fae82d",
+      "name": "New York Cheesecake",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "New York Cheesecake is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "New York Cheesecake | The creamiest cheesecake ice cream around, just like biting into a real slice of New York Cheesecake. Pairs well with almost any other flavor!",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a0270d535d5b",
+      "name": "Creamy Peanut Butter",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Creamy Peanut Butter is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Creamy Peanut Butter | Flavored only with natural peanut butter, it\u2019s the creamiest, chewiest, smoothest peanut butter ice cream around.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_894cbb3e49c9",
+      "name": "Pistachio Crunch",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Pistachio Crunch is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Pistachio Crunch | A smooth Tahitian vanilla ice cream filled with pieces of our handmade brown sugar pistachio brittle.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f28f06eca660",
+      "name": "Pumpkin Spice",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Pumpkin Spice is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Pumpkin Spice | Smooth and creamy pumpkin ice cream made with real pumpkin pure\u00e8 and real pumpkin pie spices.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a8ab0b84b166",
+      "name": "Red Raspberry Cream",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Red Raspberry Cream is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Red Raspberry Cream | Flavored only with real red raspberries and colored with all-natural plant-based colors.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c02522a0d751",
+      "name": "Silly Old Bear",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Silly Old Bear is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Silly Old Bear | Our signature flavor: handmade honeycomb candy and Teddy Graham crackers in a smooth Sweet Cream ice cream.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_604b22f27213",
+      "name": "Strawberry Cream",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Strawberry Cream is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Strawberry Cream | Flavored only with pounds and pounds of real strawberries and colored with all-natural plant-based colors.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ad6a2f1c1d4f",
+      "name": "DF Strawberry Cream",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "DF Strawberry Cream is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "DF Strawberry Cream | We steep fresh-frozen strawberries in organic sugar overnight to make a surprisingly creamy dairy-free strawberry frozen dessert.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8707b95b75f7",
+      "name": "Sweet Cream",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Sweet Cream is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Sweet Cream | The base of our ice creams: sweet, smooth, and just a little bit buttery. Perfect on its own or as a canvas for a handmade sundae.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c9a065c2f96a",
+      "name": "Vanilla Chunk",
+      "business": "Lazycowcreamery",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "699 South Willow Avenue Cookeville TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://lazycowcreamery.com/flavors/",
+      "evidence": [
+        {
+          "claim": "Vanilla Chunk is listed on the menu",
+          "source_url": "https://lazycowcreamery.com/flavors/",
+          "source_text": "Vanilla Chunk | Creamy Madagascar vanilla ice cream filled with handmade dark chocolate and milk chocolate chunks. Chocolate Chip, refined.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a13947afa937",
+      "name": "Strawberry Cheesecake",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+      "evidence": [
+        {
+          "claim": "Strawberry Cheesecake is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+          "source_text": "So fresh, SO good, great prices and service! Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5c2651bf5eb0",
+      "name": "Apple Crisp Mini Pie",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "pie",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/",
+      "evidence": [
+        {
+          "claim": "Apple Crisp Mini Pie is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/",
+          "source_text": "So fresh, SO good, great prices and service! Strawberry cheesecake and apple crisp mini pie exceeded our expectations - cannot wait to try the cupcakes.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_822b576a78d8",
+      "name": "Custom Cakes\u200b",
+      "business": "The cakery",
+      "price": 3.5,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Custom Cakes\u200b is listed at $3.50",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Custom Cakes\u200b | Single tier starts at $3.50 per serving for basic decor (ex. flat iced with a single border) and goes up based on flavor, design and fondant work.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5cfcc85d65eb",
+      "name": "Single tier starts at",
+      "business": "The cakery",
+      "price": 3.5,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Single tier starts at is listed at $3.50",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Single tier starts at $3.50 per serving for basic decor (ex. flat iced with a single border) and goes up based on flavor, design and fondant work.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_80ab6dbad36f",
+      "name": "Multi tiered cakes start at",
+      "business": "The cakery",
+      "price": 4.25,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Multi tiered cakes start at is listed at $4.25",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Multi tiered cakes start at $4.25 per serving",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_eff7395e7c10",
+      "name": "to get this process started.",
+      "business": "The cakery",
+      "price": 40.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "to get this process started. is listed at $40.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "to get this process started. | Wedding tastings are $40.00 and must be scheduled in advance. This will include my most popular cake and buttercream flavors.",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_789daa89421f",
+      "name": "Cupcakes",
+      "business": "The cakery",
+      "price": 30.0,
+      "dessert_type": "cupcake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Cupcakes is listed at $30.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Cupcakes | Basic flavor $30/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d3171c40241c",
+      "name": "Handmade fondant toppers start at",
+      "business": "The cakery",
+      "price": 48.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Handmade fondant toppers start at is listed at $48.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Handmade fondant toppers start at $48/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f4081ad16b48",
+      "name": "Flower cupcakes start at",
+      "business": "The cakery",
+      "price": 54.0,
+      "dessert_type": "cupcake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Flower cupcakes start at is listed at $54.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Flower cupcakes start at $54/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_64210830cfc4",
+      "name": "Chocolate Dipped Strawberries",
+      "business": "The cakery",
+      "price": 25.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Chocolate Dipped Strawberries is listed at $25.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Chocolate Dipped Strawberries | Plain chocolate (milk or white) with drizzle $25/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_aec0434e2612",
+      "name": "Chocolate Dipped Pretzels",
+      "business": "The cakery",
+      "price": 18.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Chocolate Dipped Pretzels is listed at $18.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Chocolate Dipped Pretzels | Plain milk or white chocolate (Ghirardelli) with drizzle $18/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_89f138d6a55b",
+      "name": "1 dozen cookies",
+      "business": "The cakery",
+      "price": 18.0,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "1 dozen cookies is listed at $18.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "1 dozen cookies | $18/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_33e34080db9f",
+      "name": "\u200bChocolate Dipped Oreos",
+      "business": "The cakery",
+      "price": 30.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "\u200bChocolate Dipped Oreos is listed at $30.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "\u200bChocolate Dipped Oreos | Plain chocolate (milk or white) with drizzle $30/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ab09996c63f6",
+      "name": "On average, my custom cakes run anout",
+      "business": "The cakery",
+      "price": 4.5,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "On average, my custom cakes run anout is listed at $4.50",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "On average, my custom cakes run anout $4.50-$5.50 per serving",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b99a557e2f14",
+      "name": "Plain chocolate (milk or white) with drizzle",
+      "business": "The cakery",
+      "price": 25.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Plain chocolate (milk or white) with drizzle is listed at $25.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Plain chocolate (milk or white) with drizzle $25/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9241298cda68",
+      "name": "Plain milk or white chocolate (Ghirardelli) with drizzle",
+      "business": "The cakery",
+      "price": 18.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Plain milk or white chocolate (Ghirardelli) with drizzle is listed at $18.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Plain milk or white chocolate (Ghirardelli) with drizzle $18/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_319ab5be6c63",
+      "name": "Strawberry shortcake, Banana pudding, oreo, or Key lime",
+      "business": "The cakery",
+      "price": 36.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Strawberry shortcake, Banana pudding, oreo, or Key lime is listed at $36.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Strawberry shortcake, Banana pudding, oreo, or Key lime | $36/dozen",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_27015f36d678",
+      "name": "Plain chocolate (milk or white) with drizzle",
+      "business": "The cakery",
+      "price": 30.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://www.thecakerytn.com/pricing--policies.html",
+      "evidence": [
+        {
+          "claim": "Plain chocolate (milk or white) with drizzle is listed at $30.00",
+          "source_url": "https://www.thecakerytn.com/pricing--policies.html",
+          "source_text": "Plain chocolate (milk or white) with drizzle $30/dz",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_1325192eef09",
+      "name": "Maple Blondie",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Maple Blondie is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Maple Blondie | Delicious maple ice cream with walnuts and blondie brownie chunks",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_822fc8bcf670",
+      "name": "Mint Cookie",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Mint Cookie is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Mint Cookie | Refreshing mint ice cream with pieces of Oreo cookies",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_945af4060bf0",
+      "name": "Cookie Butter",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Cookie Butter is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Cookie Butter | Speculaas cookie base ice cream with crushed cookies and semi-sweet chocolate chips",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3ff8d1dd2f61",
+      "name": "Chocolate Raspberry Truffle",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate Raspberry Truffle is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate Raspberry Truffle | Rich chocolate ice cream with a raspberry ribbon & mini chocolate raspberry truffles",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_aa7b9d4785d3",
+      "name": "Blueberry Cheesecake",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Blueberry Cheesecake is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Blueberry Cheesecake | Creamy cheesecake ice cream swirled with blueberries & real cheesecake pieces",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_bb1be581b758",
+      "name": "Salted Caramel",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Salted Caramel is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Salted Caramel | Creamy, salty caramel ice cream",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b476becd441a",
+      "name": "Cake Batter",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Cake Batter is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Cake Batter | Tastes just like licking the spoon at grandma\u2019s house",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2d382b36dad4",
+      "name": "Loaded Butterscotch",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Loaded Butterscotch is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Loaded Butterscotch | Butterscotch ice cream with a caramel weave loaded with Oreos & butterscotch chips",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6faf41c997ec",
+      "name": "Nutter Butter",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Nutter Butter is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Nutter Butter | Peanut butter ice cream loaded with Nutter Butter cookies & a peanut butter swirl",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e02028cc5c3f",
+      "name": "Chocolate Overload",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate Overload is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate Overload | Rich chocolate ice cream with fudge swirls & chocolate chunks",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_11466340913a",
+      "name": "Stellar Coffee",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Stellar Coffee is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Stellar Coffee | Coffee ice cream swirled with rich fudge",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5c68073667b8",
+      "name": "Pralines and Cream",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Pralines and Cream is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Pralines and Cream | Vanilla ice cream loaded with caramel & pralines",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_620ee2eddfd2",
+      "name": "Black Cherry",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Black Cherry is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Black Cherry | Creamy cherry ice cream with black cherries mixed in",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a2de24b80506",
+      "name": "Honey Roasted Pistachio",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Honey Roasted Pistachio is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Honey Roasted Pistachio | Delicious blend of honey and honey-roasted pistachios",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4be82553a52b",
+      "name": "Chocolate Peanut Butter Cup",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate Peanut Butter Cup is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate Peanut Butter Cup | Rich chocolate ice cream with a peanut butter swirl & mini peanut butter cups",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_422455f8fced",
+      "name": "Horchata",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Horchata is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Horchata | Sweet Mexican rice milk, cinnamon & coconut",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_475ebb103705",
+      "name": "Triple Chocolate Brownie",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Triple Chocolate Brownie is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Triple Chocolate Brownie | Brownie pieces, chocolate flakes & a chocolate swirl in a chocolate base",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_57ef3044d28c",
+      "name": "Strawberry",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Strawberry is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Strawberry | Strawberry ice cream with real strawberries",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b64a691ac7a8",
+      "name": "Banana Pudding",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Banana Pudding is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Banana Pudding | Banana ice cream with vanilla wafers & white chocolate chips",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fa725e5b3b3b",
+      "name": "Butter Pecan",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Butter Pecan is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Butter Pecan | Buttery ice cream loaded with pecans",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6f869fd5e1e6",
+      "name": "Red Velvet",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Red Velvet is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Red Velvet | Creamy red velvet ice cream with cream cheese icing and real red velvet cake bits",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3161c469f445",
+      "name": "Salty Honey",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Salty Honey is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Salty Honey | Creamy honey-flavored ice cream with a hint of salt",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c3bdb9ba9ae2",
+      "name": "Tennessee Fudge",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Tennessee Fudge is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Tennessee Fudge | Creamy vanilla ice cream with chocolate fudge swirls & chunks",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_bed5a7dc8a42",
+      "name": "Mint Chocolate Chip",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Mint Chocolate Chip is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Mint Chocolate Chip | Mint flavored ice cream with chocolate chips",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c9f0a19b47c6",
+      "name": "Carmel Cone",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Carmel Cone is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Carmel Cone | Caramel ice cream swirled with caramel sauce and chocolate-covered waffle cone bits",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c409723b4bda",
+      "name": "Toasted Coconut",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Toasted Coconut is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Toasted Coconut | Coconut ice cream loaded with toasted coconut",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c21d6494efb8",
+      "name": "Mexican Chocolate",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Mexican Chocolate is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Mexican Chocolate | Chocolate ice cream with cinnamon, Mexican vanilla & a hint of cayenne",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fceb22c065d2",
+      "name": "Coffee",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Coffee is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Coffee | Tastes like a glass of iced coffee you can enjoy a scoopable treat",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_acb2cee48a7f",
+      "name": "Chocolate",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Chocolate is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Chocolate | Rich, creamy and indulgent, our chocolate ice cream is a classic",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_43be497250a0",
+      "name": "Superman",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Superman is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Superman | A heroic swirl of red cherry, yellow banana and blue blueberry ice creams",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_340740238a6b",
+      "name": "Rocky Road",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Rocky Road is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Rocky Road | Creamy chocolate ice cream with chopped nuts and marshmallows folded in",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8869cbfbc53d",
+      "name": "Vanilla",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Vanilla is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Vanilla | A rich blend of sweet cream and real vanilla give a sophisticated taste to this classic",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b2461b568112",
+      "name": "Blackberry Cornbread",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Blackberry Cornbread is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Blackberry Cornbread | Vanilla ice cream with blackberries and sweet cornbread pieces folded in",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b90add1daef9",
+      "name": "Cookies and Cream",
+      "business": "Cream City Ice Cream and Coffee House",
+      "price": null,
+      "dessert_type": "ice cream",
+      "flavors": [],
+      "address": "119 West Broad Street, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://creamcitycookeville.com/flavors",
+      "evidence": [
+        {
+          "claim": "Cookies and Cream is listed on the menu",
+          "source_url": "https://creamcitycookeville.com/flavors",
+          "source_text": "Cookies and Cream | A classic blend of vanilla-based ice cream and Oreo cookie chunks",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4afc6dc26814",
+      "name": "Hot Fudge Sundae",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Hot Fudge Sundae is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "FLAVORS: Triple Chocolate | Vanilla Bean | Wedding Bell | Strawberry Delights | Red Velvet | Oreo | Reese Cups | German Chocolate | Hot Fudge Sundae | Carrot Cake | Lemon | Lemon Blueberry | Orange Cream | Strawberry Shortcake | Peach Cobbler | Maple Bacon | Apple Stack",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_657a10b92d6f",
+      "name": "Cake",
+      "business": "Heavenly Bites By Cora",
+      "price": null,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cake is listed on the menu",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cupcakes & More",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ca3e9987a834",
+      "name": "Cupcakes",
+      "business": "Heavenly Bites By Cora",
+      "price": 3.0,
+      "dessert_type": "cupcake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cupcakes is listed at $3.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cupcakes | $3.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2eecd47044c2",
+      "name": "Cake-Pops",
+      "business": "Heavenly Bites By Cora",
+      "price": 3.0,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cake-Pops is listed at $3.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cake-Pops | $3.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ca546e9b5790",
+      "name": "Specialty Cake-Pops",
+      "business": "Heavenly Bites By Cora",
+      "price": 3.25,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Specialty Cake-Pops is listed at $3.25",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Specialty Cake-Pops | $3.25/+",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fd5cf07aa272",
+      "name": "Bite Sized Cookies",
+      "business": "Heavenly Bites By Cora",
+      "price": 1.5,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Bite Sized Cookies is listed at $1.50",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Bite Sized Cookies | $1.50",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_763593d6195f",
+      "name": "Custom Sugar Cookies",
+      "business": "Heavenly Bites By Cora",
+      "price": 3.0,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Custom Sugar Cookies is listed at $3.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Custom Sugar Cookies | $3.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_12a5887e89fc",
+      "name": "Cake-in a Jar",
+      "business": "Heavenly Bites By Cora",
+      "price": 6.5,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cake-in a Jar is listed at $6.50",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cake-in a Jar | $6.50",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_432b52136556",
+      "name": "Cheesecake",
+      "business": "Heavenly Bites By Cora",
+      "price": 5.5,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cheesecake is listed at $5.50",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cheesecake | $5.50",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_efcf2505eb49",
+      "name": "Cake Slices",
+      "business": "Heavenly Bites By Cora",
+      "price": 4.0,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cake Slices is listed at $4.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cake Slices | $4.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_71b8438fa8b1",
+      "name": "Sweet Bars",
+      "business": "Heavenly Bites By Cora",
+      "price": 4.0,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Sweet Bars is listed at $4.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Sweet Bars | $4.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6e17f3404825",
+      "name": "Scones/Sweet Breads/Muffins",
+      "business": "Heavenly Bites By Cora",
+      "price": 4.0,
+      "dessert_type": "muffin",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Scones/Sweet Breads/Muffins is listed at $4.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Scones/Sweet Breads/Muffins | $4.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_03c4a8119723",
+      "name": "Cinnamon Rolls",
+      "business": "Heavenly Bites By Cora",
+      "price": 4.5,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cinnamon Rolls is listed at $4.50",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cinnamon Rolls | $4.50",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a19e7a07f972",
+      "name": "Cookies",
+      "business": "Heavenly Bites By Cora",
+      "price": 4.0,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": "1067 S Walnut Ave, Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+      "evidence": [
+        {
+          "claim": "Cookies is listed at $4.00",
+          "source_url": "https://heavenlybitesbycora-onlinebakery.com/cookeville-heavenly-bites-by-cora-food-menu",
+          "source_text": "Cookies | $4.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f124d4b7966f",
+      "name": "Cupcake 6 Pack",
+      "business": "Jamie\u2019s Eats and Sweets",
+      "price": null,
+      "dessert_type": "cupcake",
+      "flavors": [],
+      "address": "50 W Broad St Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://jamieseatsandsweets.com/tags/brownie",
+      "evidence": [
+        {
+          "claim": "Cupcake 6 Pack is listed on the menu",
+          "source_url": "https://jamieseatsandsweets.com/tags/brownie",
+          "source_text": "Cupcake 6 Pack",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8a5182880dae",
+      "name": "Medium Treat Box",
+      "business": "Jamie\u2019s Eats and Sweets",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "50 W Broad St Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://jamieseatsandsweets.com/tags/brownie",
+      "evidence": [
+        {
+          "claim": "Medium Treat Box is listed on the menu",
+          "source_url": "https://jamieseatsandsweets.com/tags/brownie",
+          "source_text": "Medium Treat Box",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_227a95d9502a",
+      "name": "Large Treat Box",
+      "business": "Jamie\u2019s Eats and Sweets",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "50 W Broad St Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://jamieseatsandsweets.com/tags/brownie",
+      "evidence": [
+        {
+          "claim": "Large Treat Box is listed on the menu",
+          "source_url": "https://jamieseatsandsweets.com/tags/brownie",
+          "source_text": "Large Treat Box",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_67a619259890",
+      "name": "Small Treat Box",
+      "business": "Jamie\u2019s Eats and Sweets",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "50 W Broad St Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://jamieseatsandsweets.com/tags/brownie",
+      "evidence": [
+        {
+          "claim": "Small Treat Box is listed on the menu",
+          "source_url": "https://jamieseatsandsweets.com/tags/brownie",
+          "source_text": "Small Treat Box",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2526f2252915",
+      "name": "425 Roast",
+      "business": "Jamie\u2019s Eats and Sweets",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": "50 W Broad St Cookeville, TN 38501",
+      "distance_miles": null,
+      "menu_url": "https://jamieseatsandsweets.com/tags/brownie",
+      "evidence": [
+        {
+          "claim": "425 Roast is listed on the menu",
+          "source_url": "https://jamieseatsandsweets.com/tags/brownie",
+          "source_text": "425 Roast",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_00065a9448af",
+      "name": "Key Lime",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Key Lime is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2620294f27ff",
+      "name": "Caramel Apple",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Caramel Apple is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f168d0fcf435",
+      "name": "Banana Pudding",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Banana Pudding is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_eae2d2728b69",
+      "name": "Butter Pecan",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Butter Pecan is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_b6aa462238b5",
+      "name": "S'mores",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "S'mores is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_91f51a724377",
+      "name": "Whipped Pumpkin",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Whipped Pumpkin is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_178c46c214d1",
+      "name": "Strawberry Shortcake",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Strawberry Shortcake is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Strawberry Shortcake",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_4d2748cca93f",
+      "name": "Peaches & Cream",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Peaches & Cream is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Peaches & Cream",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_711e4fc4de75",
+      "name": "Spiced Apple",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Spiced Apple is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Spiced Apple",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_0b48bba983b6",
+      "name": "Mango Fruity Pebbles",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Mango Fruity Pebbles is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Mango Fruity Pebbles",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_2bcf7b91198a",
+      "name": "Cinnamon Toast Crunch",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Cinnamon Toast Crunch is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Cinnamon Toast Crunch",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fc390509abab",
+      "name": "Raspberry & White Chocolate",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Raspberry & White Chocolate is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Raspberry & White Chocolate",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_73d9d851fdd0",
+      "name": "Blackberry",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Blackberry is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Blackberry",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9bdf46a6e1e2",
+      "name": "Turtle",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Turtle is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Turtle",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_90a7f65309d9",
+      "name": "Caramel",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Caramel is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Key Lime, Caramel Apple, Banana Pudding, Butter Pecan, S'mores, Whipped Pumpkin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d792993a2a07",
+      "name": "Salted Caramel",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Salted Caramel is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Salted Caramel",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_04ecfdb2f281",
+      "name": "Bourbon Caramel & Heath Crunch",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Bourbon Caramel & Heath Crunch is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Bourbon Caramel & Heath Crunch",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_bb95deffc7f7",
+      "name": "Strawberry",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Strawberry is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Strawberry",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3901489b820e",
+      "name": "Original",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Original is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Original Whole Cheesecake with Topping",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_c5a8cc416afa",
+      "name": "Oreo",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Oreo is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Oreo",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_0de1eafee5a1",
+      "name": "Reese's Peanut Butter Cup",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Reese's Peanut Butter Cup is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Reese's Peanut Butter Cup",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8f3daf1df500",
+      "name": "Biscoff Cookie Butter",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": "cookie",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Biscoff Cookie Butter is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Biscoff Cookie Butter",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_6f7ac72655a3",
+      "name": "Chocolate",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Chocolate is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Chocolate",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fb5c652561bf",
+      "name": "Sprinkles",
+      "business": "Glammy's Cheesecakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Sprinkles is listed on the menu",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Sprinkles",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_bc937579bc39",
+      "name": "Original Whole Cheesecake with Topping",
+      "business": "Glammy's Cheesecakes",
+      "price": 75.0,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Original Whole Cheesecake with Topping is listed at $75.00",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Original Whole Cheesecake with Topping | $75.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_629d106b474b",
+      "name": "Flavored Whole Cheesecake",
+      "business": "Glammy's Cheesecakes",
+      "price": 65.0,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Flavored Whole Cheesecake is listed at $65.00",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Flavored Whole Cheesecake | $65.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_ae62bbef580a",
+      "name": "Cheesecake Brownie",
+      "business": "Glammy's Cheesecakes",
+      "price": 5.0,
+      "dessert_type": "brownie",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://glammyscheesecakes.com/food-menu",
+      "evidence": [
+        {
+          "claim": "Cheesecake Brownie is listed at $5.00",
+          "source_url": "https://glammyscheesecakes.com/food-menu",
+          "source_text": "Cheesecake Brownie | $5.00",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_55ec037e6448",
+      "name": "Banana Split",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Banana Split is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Banana Split",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_55597435c0f1",
+      "name": "Caramel Apple",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Caramel Apple is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Caramel Apple",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_f143a98a0a13",
+      "name": "Cheesecake Squares",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": "cheesecake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Cheesecake Squares is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Cheesecake Squares",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_972032b884b2",
+      "name": "Chocolate Chip",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Chocolate Chip is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Chocolate Chip",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_fba213d3005c",
+      "name": "Pumpkin Spice",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Pumpkin Spice is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Pumpkin Spice",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a8532e17a920",
+      "name": "Chocolate Covered Strawberry",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Chocolate Covered Strawberry is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Chocolate Covered Strawberry",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5e9882d30b3d",
+      "name": "Lemon Chiffon",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Lemon Chiffon is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Lemon Chiffon",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_086740c00a6f",
+      "name": "Mocha Hazelnut",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Mocha Hazelnut is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Mocha Hazelnut",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_13059e4d321a",
+      "name": "Oreo",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Oreo is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Oreo",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_e20ef1462d3d",
+      "name": "Peanut Butter-Chocolate",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Peanut Butter-Chocolate is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Peanut Butter-Chocolate",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_97bd55a9d476",
+      "name": "Key Lime",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Key Lime is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Key Lime",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_a66f0c35b0a8",
+      "name": "Turtle",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Turtle is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Turtle",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_61fe4b1b9f6b",
+      "name": "Traditional New York-Style",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "Traditional New York-Style is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "Traditional New York-Style*",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_aa495830fb3b",
+      "name": "White-Chocolate Caramel w/ Macadamia Nuts",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cheesecakes/",
+      "evidence": [
+        {
+          "claim": "White-Chocolate Caramel w/ Macadamia Nuts is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cheesecakes/",
+          "source_text": "White-Chocolate Caramel w/ Macadamia Nuts",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d148a33d15f1",
+      "name": "Baklava",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Baklava is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Baklava",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_713c023bd6dd",
+      "name": "Chess Squares",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Chess Squares is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Chess Squares",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_7357ba4f26cb",
+      "name": "Chewy Sugar",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Chewy Sugar is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Chewy Sugar",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_58d376eef6f5",
+      "name": "Double Chocolate Chip",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Double Chocolate Chip is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Double Chocolate Chip",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_3b70470aae13",
+      "name": "Fudge Tarts",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": "pie",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Fudge Tarts is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Fudge Tarts",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_d397da723381",
+      "name": "Lemon Squares",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Lemon Squares is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Lemon Squares",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_60b08cb03030",
+      "name": "Multi-Chippers",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Multi-Chippers is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Multi-Chippers",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_832f3a7d1150",
+      "name": "Oatmeal-Raisin",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Oatmeal-Raisin is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Oatmeal-Raisin",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_28abb2348a1e",
+      "name": "Peanut Butter",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Peanut Butter is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Peanut Butter",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8e13d8188658",
+      "name": "Pecan Pie Tarts",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": "pie",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "Pecan Pie Tarts is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "Pecan Pie Tarts",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5476a40e6c3a",
+      "name": "White Chocolate-Macadamia",
+      "business": "The Right Choice Catering Cakes",
+      "price": null,
+      "dessert_type": null,
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://therightchoicecatering.com/cookies/",
+      "evidence": [
+        {
+          "claim": "White Chocolate-Macadamia is listed on the menu",
+          "source_url": "https://therightchoicecatering.com/cookies/",
+          "source_text": "White Chocolate-Macadamia",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_8c1665e86439",
+      "name": "Gender Reveal Cookie Cake",
+      "business": "Dough Peddler Bakery",
+      "price": null,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+      "evidence": [
+        {
+          "claim": "Gender Reveal Cookie Cake is listed on the menu",
+          "source_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+          "source_text": "Gender Reveal Cookie Cake",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_da3f1ecc8963",
+      "name": "Layered Wedding Cookie Cake",
+      "business": "Dough Peddler Bakery",
+      "price": null,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+      "evidence": [
+        {
+          "claim": "Layered Wedding Cookie Cake is listed on the menu",
+          "source_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+          "source_text": "Layered Wedding Cookie Cake",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_5c219bb718b5",
+      "name": "Three Layer Chocolate Chip Cookie Cake",
+      "business": "Dough Peddler Bakery",
+      "price": null,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+      "evidence": [
+        {
+          "claim": "Three Layer Chocolate Chip Cookie Cake is listed on the menu",
+          "source_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+          "source_text": "Three Layer Chocolate Chip Cookie Cake",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    },
+    {
+      "dessert_id": "web_9e2cfc1c7b40",
+      "name": "Wedding/Any Special Occasion Cake (12 Layer)",
+      "business": "Dough Peddler Bakery",
+      "price": null,
+      "dessert_type": "cake",
+      "flavors": [],
+      "address": null,
+      "distance_miles": null,
+      "menu_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+      "evidence": [
+        {
+          "claim": "Wedding/Any Special Occasion Cake (12 Layer) is listed on the menu",
+          "source_url": "https://thebreadpeddler.net/product-category/cookie-cakes/",
+          "source_text": "Wedding/Any Special Occasion Cake (12 Layer)",
+          "checked_at": "2026-11-18T21:02:11.838512+00:00"
+        }
+      ],
+      "source_type": "webpage",
+      "verification_status": "unverified"
+    }
+  ]
+}
