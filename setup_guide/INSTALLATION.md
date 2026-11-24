@@ -63,6 +63,8 @@ To open the searxng configuration for secret key for .yml file run:
 5. type exit enter to clear docker setting 
 6. start container before running in docker desktop
 Note: once this .yml file is edited, you don't have to edit it again!
+7. change the searxng-settings-yml.txt by adding your secret key from step 2 into the searxng-settings-yml.txt file.
+8. Once the change is saved, rename the searxng-settings-yml.txt file to searxng-settings.yml
 ## 5. Install Ollama and the local AI model
 
 Website: https://ollama.com/download/windows
@@ -149,13 +151,19 @@ If PowerShell blocks activation, you can run the environment's Python directly w
 .\.venv\Scripts\python.exe -m playwright install chromium
 ```
 
-## 9. Make sure you have a .env file. The format should be:
+## 8. Make sure you have a .env file. The format should be:
 
+1. rename the env.txt file to .env 
+2. use the command:
+
+mv env.txt .env
+
+3. Then, make the following changes:
 GOOGLE_PLACES_API_KEY=KEYGOESHERE
 YELP_API_KEY=KEYGOESHERE
 SWEETERY_TESSERACT_CMD=C:\FilePathToTesseractProgramFileHere
 
-## 10. Run tests and launch Sweetery
+## 9. Run tests and launch Sweetery
 
 From the project root, with the virtual environment activated:
 
