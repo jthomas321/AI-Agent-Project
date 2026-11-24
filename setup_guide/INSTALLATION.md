@@ -59,7 +59,7 @@ To open the searxng configuration for secret key for .yml file run:
 2. cat /etc/searxng/settings.yml                      (should see secret key)
 3. cd /etc/searxng/                                   (go into directory the .yml key is in)
 4. vi settings.yml 
-5. change it to look like searxng-settings.yml but make sure your secret key (setp 2) is entered in secret key
+5. change it to look like searxng-settings.yml but make sure your secret key (step 2) is entered in secret key
 5. type exit enter to clear docker setting 
 6. start container before running in docker desktop
 Note: once this .yml file is edited, you don't have to edit it again!
